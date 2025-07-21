@@ -1,0 +1,1001 @@
+Fecha,Producto,Categoría,Precio,CosteUnitario,UnidadesVendidas,CanalVenta,Ciudad,Cliente_ID
+11/11/2024,Organic Coconut Sugar,Alimentación,69.39,50.475967546502935872,6,Online,Tamontaka,1
+10/25/2024,Mushroom Soup (canned),Bebidas,20.28,14.257710405765145644,15,Tienda física,Vorob’yovo,2
+7/31/2024,Garlic and Herb Rub,Bebidas,9.79,7.336859952114318153,37,App móvil,Scottsdale,3
+6/15/2025,Floral Summer Dress,Bebidas,37.3,16.7781602494939107,28,Online,Outeirô,4
+12/12/2024,Smartphone Holder for Car,Higiene,15.55,10.070987605248920725,76,Tienda física,Nzérékoré,5
+2/16/2025,Reusable Coffee Filter,Alimentación,65.54,28.7697361329518016,32,Tienda física,‘Eilabun,6
+12/9/2024,Bamboo Charcoal Air Purifier Bags,Bebidas,70.5,37.5585334022306427,53,Online,Kälviä,7
+9/21/2024,Roasted Red Pepper Dip,Higiene,3.65,2.411186201373577165,69,Tienda física,Xiawa,8
+5/17/2025,Chocolate Chip Cookie Mix,Cosmética,49.68,36.6879417701266044,36,App móvil,Phú Khương,9
+1/26/2025,Deluxe First Aid Kit,Alimentación,29.78,23.34575427728251349,5,Tienda física,Gagarawa,10
+8/14/2024,Cranberry Pecan Granola,Alimentación,87.25,35.682943326640031175,61,Tienda física,San José de La Montaña,11
+3/9/2025,Kids' Gardening Tools Set,Alimentación,31.36,13.247516470403426176,32,Tienda física,Tengger,12
+5/18/2025,Pumpkin Pancake Mix,Bebidas,86.76,45.232314321323454984,83,Online,Arroio Grande,13
+8/30/2024,Kids' Activity Book,Higiene,44.09,31.016167360433520374,67,Online,Panshan,14
+5/31/2025,Honey BBQ Riblets,Alimentación,54.07,40.224508260650830944,37,Online,Benito Juarez,15
+9/28/2024,Roasted Garlic Butter,Bebidas,14.45,11.125205793641380535,31,Tienda física,Dos Hermanas,16
+5/9/2025,Spinach and Cheese Stuffed Shells,Limpieza,40.92,21.68987614876037736,78,App móvil,Borzytuchom,17
+8/11/2024,Personal Safety Alarm,Limpieza,26.73,13.633799069139383178,87,App móvil,Opochka,18
+1/12/2025,Pineapple Rings,Limpieza,37.74,21.732673249266660174,93,Online,Rongelap,19
+8/5/2024,Telescope,Bebidas,42.75,18.083008298270347425,23,Tienda física,Padre Paraíso,20
+8/28/2024,Artisan Bread Loaf,Higiene,19.09,9.993595478586321305,11,App móvil,Banaran,21
+8/5/2024,Relaxed Fit Henley Shirt,Bebidas,83.33,37.346477425151664783,47,App móvil,Aheloy,22
+5/17/2025,Saffron Rice Mix,Cosmética,25.45,12.267938867648337775,45,Online,Verkhoshizhem’ye,23
+5/22/2025,Organic Tomato Soup,Cosmética,10.02,6.417000926402240202,11,Tienda física,Gavinhos de Baixo,24
+1/2/2025,Peanut Butter Banana Smoothie Mix,Alimentación,37.77,25.825592389541551491,72,App móvil,Berëzovyy,25
+10/29/2024,Hair Dryer,Mascotas,49.92,37.846029402849313152,25,Tienda física,Zarzis,26
+3/17/2025,Maple Almond Yogurt,Cosmética,88.32,56.201639572486991232,4,Tienda física,Xinwan,27
+1/24/2025,Walnut Halves,Bebidas,80.01,61.533059995463017185,64,Tienda física,Buzuluk,28
+5/28/2025,Coconut Bowls Set,Limpieza,97.41,52.444082525366115414,88,Tienda física,Kalijeruk,29
+12/8/2024,Sporty Slide Sandals,Limpieza,9.09,6.187909959308972799,69,App móvil,Heping,30
+8/6/2024,Paint By Numbers Kit,Limpieza,91.47,60.55358779559234559,50,App móvil,Sargatskoye,31
+3/10/2025,Dark Chocolate Covered Pretzels,Higiene,36.08,15.64075122092538264,47,Tienda física,Gaotuo,32
+5/19/2025,Silicone Stretch Lids,Limpieza,13.37,7.87280237940039536,89,Tienda física,Sarmīn,33
+12/5/2024,Wireless Smart Plug,Cosmética,5.24,2.58702674109264222,25,App móvil,Quintinha,34
+1/24/2025,Smart Plant Monitor,Limpieza,75.42,52.675450949133714114,14,App móvil,Nashville,35
+10/25/2024,Dish Rack,Alimentación,2.46,1.953669616430629386,37,Online,Roxas,36
+9/29/2024,Cinnamon Raisin Bagels,Mascotas,84.46,54.554433981968548946,53,App móvil,Bueng Kum,37
+2/6/2025,Smart Home Hub,Cosmética,61.09,28.46912187327741759,2,Tienda física,Milano,38
+10/25/2024,Carrot Sticks,Limpieza,84.1,58.50122503290830702,78,Online,Simpang,39
+7/11/2025,Cranberry Lime Sparkling Water,Mascotas,73.98,34.92701244147327246,54,App móvil,Nyimba,40
+6/6/2025,Spinach and Feta Wraps,Alimentación,63.77,41.3493158134224378,73,Online,Martaban,41
+8/13/2024,Phone Screen Protector,Bebidas,6.84,4.663743069880062036,19,Tienda física,Motema,42
+4/15/2025,Mediterranean Flatbread,Alimentación,57.53,33.491631096950391035,83,Tienda física,Sydney,43
+12/31/2024,Electric Egg Cooker,Cosmética,49.99,29.527580694032412857,73,Tienda física,Lysekil,44
+10/13/2024,Jalapeño Cornbread,Cosmética,59.67,33.146646285223503513,12,App móvil,El Plan,45
+11/15/2024,Dried Apricots,Higiene,77.0,37.1100351702797948,100,App móvil,Mpophomeni,46
+1/9/2025,Telescope,Bebidas,70.73,43.073952754028731546,7,Online,Książ Wielkopolski,47
+11/22/2024,Backpacking Tent,Mascotas,93.12,69.708077507261926368,56,Online,Cuauhtemoc,48
+8/20/2024,Children's Science Experiment Lab Kit,Limpieza,61.02,40.753323763255457784,58,Online,Amuntai,49
+6/19/2025,Sourdough Bread,Higiene,31.27,18.793768300392531047,36,Online,Teseney,50
+10/12/2024,Maple Syrup,Higiene,13.12,5.264919828400249664,46,Online,Bandar-e Torkaman,51
+6/15/2025,Beef Taco Skillet,Limpieza,84.17,46.830064884170179429,47,App móvil,Shuangfeng,52
+11/28/2024,Pet Reflective Vest,Mascotas,91.78,39.16623541577730308,93,Online,Luangwa,53
+6/11/2025,Arcade Game Machine,Higiene,51.31,36.315513340210947794,47,Tienda física,Tambulig,54
+1/9/2025,Vegan Protein Powder,Cosmética,87.77,40.845491901091087284,86,Online,Ujsoły,55
+11/6/2024,Classic Chicken Noodle Soup,Alimentación,83.06,39.911956618822491336,48,Online,Danzi,56
+9/8/2024,Smart Home Security Camera,Limpieza,97.09,71.248047644729459028,98,Tienda física,Agía Varvára,57
+10/29/2024,Magnetic Phone Car Mount,Cosmética,56.09,38.318869835980781211,4,Tienda física,Bromma,58
+11/25/2024,Wireless Security System,Mascotas,11.95,5.138956526542302935,69,App móvil,Jimusa’er,59
+10/20/2024,Adjustable Pedicure Footrest,Bebidas,75.9,44.51773425156161511,14,Online,Sada,60
+8/30/2024,Pet Activity Tracker,Mascotas,29.3,21.64294613322229729,1,Tienda física,Yidu,61
+1/24/2025,Foldable Picnic Table,Cosmética,97.7,56.60668565955021245,33,Online,Ciudian,62
+5/25/2025,Fashionable Scarves Set,Limpieza,37.06,28.869520118894995934,91,App móvil,Xikou,63
+9/19/2024,Animal Paw Print Soap Dispenser,Bebidas,18.26,11.079481405000009848,69,App móvil,Huilongshan,64
+7/9/2025,Instant Camera,Cosmética,78.54,42.807550583009354142,34,App móvil,Moneghetti,65
+12/14/2024,Savory Oatmeal,Higiene,39.31,31.218233268620406881,88,App móvil,Dingjia,66
+4/8/2025,Honey Glazed Carrots,Alimentación,99.37,73.968840428807039832,2,App móvil,Licupis,67
+7/15/2025,Lemon Sorbet,Cosmética,89.95,61.51089087298968533,54,Online,Ungheni,68
+9/16/2024,Radish Chips,Mascotas,63.21,38.580817279567924935,57,App móvil,Putre,69
+12/19/2024,Sweet and Sour Sauce,Cosmética,90.28,56.558205027583530224,75,App móvil,Botou,70
+11/13/2024,Portable Air Purifier,Higiene,4.83,3.815182286325942294,88,Tienda física,Mgachi,71
+7/25/2024,LED Strip Light Kit,Higiene,50.26,39.465965271891460246,68,Online,Leeuwarden,72
+1/2/2025,LED Camping Lantern with USB Charging,Alimentación,27.77,19.568269314637568143,87,Tienda física,Călăraşi,73
+9/15/2024,Electric Opener for Jars and Bottles,Cosmética,60.34,27.52242662141178045,48,App móvil,Quzi,74
+10/17/2024,Biodegradable Trash Bags,Cosmética,11.89,5.185751681480717262,41,App móvil,El Hermel,75
+4/14/2025,Hand Mixer,Limpieza,64.62,47.972245706862981804,16,Online,Dzüünharaa,76
+7/4/2025,Cotton Basic Tank,Mascotas,58.2,36.53625161112585156,62,Tienda física,Cogon,77
+11/23/2024,Fire Roasted Salsa,Alimentación,57.2,45.5886269631545896,76,Tienda física,Mambulo,78
+1/12/2025,Black Bean Soup,Bebidas,2.18,1.298903834965138264,93,App móvil,Ban Selaphum,79
+9/9/2024,Organic Italian Seasoning,Mascotas,50.4,38.33766384841150128,50,Online,Kinzan,80
+12/5/2024,Beef Sirloin Steak,Limpieza,92.66,69.283577972098800024,70,Online,Andoany,81
+5/22/2025,Chocolate Coconut Protein Balls,Limpieza,2.73,1.872532049169879279,51,Tienda física,Nantang,82
+2/28/2025,Whole Grain Cereal,Bebidas,19.36,12.781551869825178704,16,App móvil,Zongzhai,83
+8/8/2024,Stick Vacuums Cleaner,Limpieza,79.9,59.29434645351289009,41,Tienda física,Valašská Polanka,84
+3/20/2025,Peach Mango Smoothie,Mascotas,19.46,11.672723162481942666,27,Tienda física,Naushki,85
+7/18/2025,Travel Mug,Higiene,45.44,27.464963693621571584,77,App móvil,Grabica,86
+2/11/2025,First Aid Kit,Alimentación,86.9,47.86597756452089204,75,App móvil,Góis,87
+9/27/2024,Chipotle Sauce,Higiene,87.14,40.301241084692452582,55,App móvil,Simpang,88
+9/7/2024,Kids' Dinosaur-Themed Lunchbox,Mascotas,9.51,3.876552830827110126,71,App móvil,Shiniu,89
+4/15/2025,Pet Leash,Cosmética,22.91,12.582274821006975256,6,App móvil,Austin,90
+11/28/2024,Wireless Music Receiver,Limpieza,94.47,47.387664808418032563,44,Online,Qujing,91
+3/10/2025,Printed Maxi Skirt,Limpieza,99.7,67.95432717383026794,12,App móvil,Bulbul,92
+4/14/2025,Granola Cereal,Alimentación,93.58,70.77839296503301522,47,Tienda física,Ibshawāy,93
+9/28/2024,LED Christmas Lights,Limpieza,73.54,50.828467515413478574,66,Tienda física,Muang Pakxan,94
+4/12/2025,Sweet and Spicy Barbecue Sauce,Alimentación,69.24,43.79703637496367036,59,Tienda física,Pojok,95
+5/10/2025,Chocolate Fudge Ice Cream,Mascotas,88.3,51.31363119379050541,53,Tienda física,Priyutovo,96
+3/31/2025,Baking Soda,Mascotas,71.1,44.2698695484098364,68,App móvil,La Chapelle-sur-Erdre,97
+2/9/2025,Fitness Foam Roller,Bebidas,64.82,29.975319255927528952,71,Online,Victoria,98
+4/22/2025,Car Phone Mount,Cosmética,67.07,34.104158644455525306,13,Tienda física,Murygino,99
+2/5/2025,Sriracha Hot Chili Sauce,Higiene,26.8,21.05610891054818528,72,Online,Yingdianjie,100
+2/11/2025,Pistachios,Bebidas,7.45,5.336815281240534415,90,Online,Kirkland,101
+12/22/2024,Smart Water Bottle with Hydration Reminder,Cosmética,78.92,48.817235047214362928,99,Tienda física,Silvares,102
+11/27/2024,Bamboo Bathtub Caddy,Cosmética,20.05,14.839499662525292275,84,App móvil,Socorro,103
+10/6/2024,Silicone Cooking Utensils Set,Higiene,50.48,20.416402124323643608,60,Online,Gaojiazhuang,104
+6/16/2025,Sliced Olives,Bebidas,69.9,32.6156122181279481,33,Online,Na Yung,105
+9/19/2024,Mini Air Hockey Table,Cosmética,62.65,34.017892315186344075,63,App móvil,La Clotilde,106
+12/24/2024,Dog Training Collar,Alimentación,8.19,4.944093024616868304,48,Tienda física,Rungis,107
+8/5/2024,Sweetened Condensed Milk,Limpieza,63.62,41.728506163285313688,39,App móvil,Puerto Francisco de Orellana,108
+5/3/2025,Italian Herbal Seasoning,Bebidas,5.92,3.791961903278890688,65,App móvil,Rawasan,109
+1/20/2025,Compact Portable Grill,Higiene,35.71,23.330172136733658102,24,Online,Virginia,110
+5/13/2025,Laptop Backpack,Mascotas,50.15,28.241879181095198665,21,Tienda física,Carcavelos,111
+8/6/2024,Rainbow Veggie Chips,Bebidas,24.42,12.485190431249911386,19,Tienda física,Shīeli,112
+9/3/2024,Avocado Oil,Alimentación,30.32,22.443670506285143896,45,Online,Mafraq,113
+4/25/2025,Wine Glasses,Bebidas,61.99,34.161180845728275499,17,App móvil,Ostaszewo,114
+7/7/2025,Vegetable Stir-Fry Sauce,Cosmética,19.46,13.35372548327781481,46,Online,Shulan,115
+5/16/2025,Vegetarian Sausage Links,Limpieza,41.26,31.035133090365848146,60,App móvil,Al Fuwayliq,116
+6/20/2025,Baby Monitor,Limpieza,61.84,38.585289533595773776,17,Tienda física,Sidoaji,117
+5/30/2025,Plant Watering Spikes,Mascotas,70.53,43.810561680935381988,70,App móvil,Sankwia,118
+11/10/2024,Maple Pecan Granola,Higiene,54.94,24.54355705475339653,48,App móvil,Keti Bandar,119
+7/24/2024,Wireless HDMI Transmitter,Cosmética,42.92,29.800455795978453116,65,Online,Dairiti,120
+7/21/2024,Overnight Duffle Bag,Limpieza,88.36,50.60964308725324864,59,Tienda física,Lammi,121
+12/27/2024,Collapsible Storage Crates,Limpieza,11.93,8.534449953627249091,99,Tienda física,Teslić,122
+10/12/2024,Folding Pocket Knife,Bebidas,40.91,21.88939166202596415,32,Tienda física,Zhouzhuang,123
+9/22/2024,Apple Cinnamon Instant Oatmeal,Limpieza,83.7,60.04922825884036131,55,Online,Berlin,124
+4/14/2025,Sunglasses Case,Limpieza,96.49,49.685624541897910487,90,Tienda física,Geneng Tengah,125
+9/25/2024,Watercolor Paint Set,Mascotas,43.09,22.097341477953227804,50,Tienda física,Guinoaliuan,126
+1/29/2025,Active Racerback Tank,Higiene,80.43,37.486495920124850298,55,Online,Guijalo,127
+8/28/2024,Organic Blueberries,Higiene,95.7,50.97570231624325488,73,App móvil,Černelavci,128
+5/28/2025,BBQ Jackfruit,Limpieza,22.27,9.088157627918128396,20,Tienda física,Yeosu,129
+3/21/2025,Set of Silicone Cooking Utensils,Bebidas,60.28,42.875406789624588696,51,Online,Göteborg,130
+8/27/2024,Maple Almond Granola,Higiene,11.94,8.888587231615784892,25,Online,Novolugovoye,131
+8/16/2024,Raisin Cinnamon Granola,Higiene,2.9,2.11782300919915706,77,Online,Toulouse,132
+7/8/2025,Lemonade Mix,Alimentación,92.71,45.03879049282759898,43,App móvil,Waterloo,133
+8/31/2024,Cushion Covers,Higiene,60.86,32.74153730061290344,90,App móvil,Terawas,134
+9/14/2024,Marinara Sauce,Cosmética,35.2,22.73080064022042528,19,Online,Vistino,135
+9/1/2024,Mango Sticky Rice Dessert,Alimentación,76.14,36.847533522021491466,66,Tienda física,Wedoro,136
+6/28/2025,Cinnamon Raisin Bread,Alimentación,70.22,35.496603115984404918,16,App móvil,Zhabagly,137
+7/30/2024,Baked Mac and Cheese,Mascotas,77.94,41.595074306393930172,2,App móvil,Zhangpu,138
+11/29/2024,Chocolate Fudge Brownie Mix,Mascotas,20.68,13.340223682505677188,63,Tienda física,Ladário,139
+3/12/2025,Basil Lemonade,Higiene,70.63,41.236792510421971918,36,Online,Takikawa,140
+5/14/2025,Garden Kneeler and Seat,Alimentación,51.43,39.962071933235043714,43,Online,Nová Cerekev,141
+8/8/2024,Mayonnaise,Higiene,88.49,63.156064510831312569,12,App móvil,Velika Kladuša,142
+11/17/2024,Fresh Cilantro,Mascotas,37.54,23.705570979017894134,73,Online,Altay,143
+1/7/2025,Heavy-Duty Utility Tote,Cosmética,33.24,21.496877907270327684,58,Tienda física,Longtang,144
+1/31/2025,Whole Grain Cereal,Mascotas,27.33,18.942294330595918026,75,App móvil,Cifuentes,145
+2/6/2025,Pumpkin Spice Granola,Mascotas,43.2,18.39081267702472176,18,Tienda física,Banjar Timbrah,146
+6/17/2025,Karaoke Microphone,Higiene,19.19,14.040505942303260462,64,App móvil,Aoufous,147
+8/28/2024,Inflatable Party Cooler,Cosmética,58.45,25.9827694227134803,41,Online,Romans-sur-Isère,148
+2/27/2025,Window Bird Feeder with Suction Cups,Mascotas,64.01,27.509897097362694152,100,Online,Lumbac,149
+2/24/2025,Phone Screen Protector,Cosmética,31.03,16.435664628268070273,62,Online,Kongsvinger,150
+11/15/2024,Sustainable Wooden Toys,Alimentación,35.81,17.368432982880541785,82,App móvil,Krajan Satu,151
+6/12/2025,Mediterranean Flatbread,Bebidas,64.67,36.922728919201512684,50,Tienda física,Bhiria,152
+2/4/2025,Bodyweight Resistance Bands,Bebidas,65.0,30.5230971996918565,2,Tienda física,Lokoja,153
+6/3/2025,Kettle Chip Variety Pack,Alimentación,13.19,6.733875400564802335,73,Tienda física,Beijiang,154
+4/14/2025,Lentil Soup,Bebidas,75.7,36.38048437927975476,99,App móvil,Tutem,155
+12/24/2024,Stainless Steel Grater,Cosmética,84.48,52.288144543448825088,10,Tienda física,Saumur,156
+8/8/2024,Self-Stirring Mug,Limpieza,56.19,43.936893419898732729,81,Tienda física,Ljig,157
+3/22/2025,Fruit and Nut Bars,Bebidas,24.82,16.768162023090857238,84,App móvil,Dodol,158
+3/20/2025,Insulated Lunch Bag,Limpieza,51.31,37.819070593914568805,23,Online,Wielbark,159
+6/26/2025,Miso Soup Starter,Bebidas,72.65,55.945114994032276425,75,App móvil,Victoria,160
+1/18/2025,Hot Salsa,Higiene,56.63,23.048377404362175208,3,Tienda física,Tagog,161
+10/24/2024,Magnetic Puzzle Board,Alimentación,47.3,26.09682388122898308,100,Tienda física,Ospina,162
+3/15/2025,Pet Safety Harness,Higiene,76.82,48.088617384306600268,97,Online,Camlachie,163
+3/14/2025,Nut Butter Cups,Limpieza,8.54,4.925705390500184374,71,App móvil,Fenggang,164
+5/31/2025,Satin Slip Dress,Bebidas,92.8,60.3626258751987808,19,App móvil,Forshaga,165
+11/6/2024,LED Makeup Mirror,Bebidas,8.36,5.255311212061739796,34,Tienda física,Saldanha,166
+1/28/2025,Non-Stick Baking Sheet,Limpieza,43.48,21.93417471614310904,15,App móvil,Sukagawa,167
+10/2/2024,Teriyaki Tofu Stir-Fry,Cosmética,43.87,24.379289891987841677,90,Tienda física,Detroit,168
+2/6/2025,Dishwasher Safe Cutting Board,Mascotas,25.63,10.382634053681051371,76,Tienda física,Krajan Timur Suger Kidul,169
+5/16/2025,Inspirational Wall Art,Higiene,81.21,38.851939322629616784,61,Tienda física,Calvão,170
+5/18/2025,Pressure Cooker,Alimentación,27.0,17.2949693690198106,61,App móvil,Punat,171
+10/23/2024,Sliced Bell Peppers,Bebidas,73.87,54.233978769064005789,52,Tienda física,Semarapura,172
+7/13/2025,Memory Foam Pillow,Mascotas,71.23,40.29117675281980472,58,App móvil,Piaocao,173
+8/10/2024,Outdoor Portable Fire Pit,Mascotas,13.13,7.436615568868777044,94,Tienda física,Duitama,174
+1/14/2025,Stainless Steel Cutlery Set,Alimentación,95.3,43.9949438945078979,7,Online,Duvergé,175
+2/16/2025,Organic Almond Flour,Cosmética,95.21,57.712342153685408214,64,Tienda física,Vrede,176
+8/6/2024,First Aid Kit,Limpieza,21.56,8.884277691024748628,73,App móvil,Bafoulabé,177
+9/20/2024,Low-Fat Yogurt,Higiene,11.64,8.691190836051327756,71,Online,Cagayan,178
+7/31/2024,Protein Bar Variety Pack,Mascotas,74.47,31.943632842625089784,59,Tienda física,Kopral,179
+11/20/2024,Reusable Coffee Filter,Mascotas,59.64,30.076097076365094552,5,Tienda física,Kerasochóri,180
+2/3/2025,Yoga Wheel,Cosmética,65.87,44.268715760934859019,72,Online,Ketawang,181
+7/12/2025,Caribbean Jerk Marinade,Cosmética,12.52,9.699277793416773888,70,App móvil,Niterói,182
+7/7/2025,Fleece Lined Leggings,Higiene,29.55,19.191163982868146235,63,Tienda física,Libao,183
+1/5/2025,Almond Flour Biscuits,Higiene,48.7,21.36422071996472124,35,Online,Makariv,184
+2/18/2025,Miso Dressing,Cosmética,65.65,34.74702167834557998,56,Online,Aramecina,185
+12/6/2024,Board Game Storage,Mascotas,74.66,47.15143326878142334,25,Online,Saint-Pierre,186
+11/4/2024,Whole Roasted Chicken,Cosmética,8.46,4.169522369505015504,42,Online,Tunguang,187
+12/3/2024,Cold Brew Coffee Maker,Cosmética,48.54,31.03200273314645052,66,Online,Káto Glikóvrisi,188
+9/29/2024,Bodyweight Resistance Bands,Alimentación,71.59,43.739855653883590133,77,Tienda física,Cizhu,189
+10/14/2024,Wireless Printer,Cosmética,41.52,20.103289880012822088,28,Online,‘Eilabun,190
+7/14/2025,Portable Pet Bathing Tool,Alimentación,34.0,16.8013882827857896,2,App móvil,Guyam Malaki,191
+3/11/2025,Nutritional Yeast,Cosmética,11.13,8.358840030586571127,33,App móvil,Sápes,192
+3/8/2025,Non-Toxic Concrete Sealer,Higiene,69.82,54.483288592589013678,40,App móvil,Mohelnice,193
+12/26/2024,Puzzle Game Set,Limpieza,69.54,40.057302945808573944,33,App móvil,Santo Niño,194
+6/25/2025,Cranberry Orange Juice,Limpieza,34.93,14.79333724633426543,21,Online,Bojano,195
+4/7/2025,Fitness Tracker Band,Mascotas,22.73,13.138533166196725766,91,Online,Nasilava,196
+8/17/2024,Caramel Sauce,Bebidas,61.0,33.8992721288804292,6,App móvil,San Marcelino,197
+1/23/2025,Field Journal,Higiene,43.9,22.12286352771233238,10,App móvil,Clichy,198
+1/17/2025,Handheld Shower Head,Limpieza,14.96,11.6918033689577384,40,Tienda física,Zhouxi,199
+7/23/2024,Almond Joy Munch Bars,Limpieza,90.68,59.114427988902572588,10,Online,Chơn Thành,200
+11/22/2024,Mediterranean Chickpea Salad,Higiene,27.47,17.312759840616014524,17,App móvil,Hrtkovci,201
+4/24/2025,Foldable Electric Scooter,Mascotas,2.52,1.233552504600459288,22,App móvil,Luqa,202
+1/7/2025,Craft Beer Mustard,Alimentación,28.99,22.712700664908822529,97,Tienda física,Citasuk,203
+2/25/2025,Diced Tomatoes (canned),Higiene,15.65,9.47759548149698674,16,Tienda física,Parthenay,204
+10/6/2024,Vegetarian Stir Fry Sauce,Higiene,20.86,11.197174714784390318,12,Online,Āsmār,205
+4/28/2025,Ethically-Sourced Coffee Beans,Limpieza,24.69,16.290428961761220363,96,App móvil,Rizómilos,206
+11/13/2024,Smartphone Gimbal,Higiene,29.16,14.340149460784737216,57,Tienda física,Circa,207
+5/26/2025,Handheld Shower Head,Bebidas,29.99,21.528707867895890289,99,Tienda física,Monaragala,208
+10/21/2024,Siphon Coffee Maker,Limpieza,79.49,58.535228108482793556,42,Tienda física,Diamantina,209
+7/18/2025,Garlic Herb Seasoning,Alimentación,3.08,1.4816200958420631,88,App móvil,Cotonou,210
+5/1/2025,Balsamic Fig Dressing,Limpieza,87.4,55.3525598457524925,100,App móvil,Aksakovo,211
+5/5/2025,Buttermilk Pancakes,Alimentación,77.43,45.569125847454323121,53,App móvil,Pasirnangka,212
+6/1/2025,Wall-Mounted Spice Rack,Higiene,59.72,26.697691311177601656,17,Online,El Paso,213
+3/13/2025,Puff Pastry,Limpieza,76.29,30.564985418827016658,49,Online,Lorient,214
+10/20/2024,Raspberry Lemonade Mix,Alimentación,96.93,70.702016977804937301,7,Online,La Jicaral,215
+10/25/2024,Kettle Chip Variety Pack,Bebidas,19.02,12.09019547021018646,21,Online,Dahu,216
+3/27/2025,Luxury Memory Foam Mattress Topper,Limpieza,97.34,74.778409535159165064,22,App móvil,Del Valle,217
+11/13/2024,Fashionable Fanny Pack,Mascotas,68.09,50.646398366148312013,13,Online,Guanqing,218
+4/9/2025,Tomato Sauce,Mascotas,62.36,46.080666035843369952,100,App móvil,Jingu,219
+8/10/2024,Pet Hair Vacuum Cleaner Attachment,Higiene,42.71,25.625938127637220179,8,Tienda física,Zhangzhu,220
+1/5/2025,Skincare Fridge,Alimentación,43.61,22.414946757381221911,57,Tienda física,Tangguhang,221
+5/9/2025,Personal Blender with Travel Cup,Cosmética,30.39,14.92082205817793517,46,Online,Tongyu,222
+7/30/2024,Multicolored LED Strip Lights,Higiene,29.72,15.115830073983725076,69,App móvil,Jahāniān Shāh,223
+8/5/2024,Granulated Sugar,Bebidas,55.69,23.493144593733487083,78,Tienda física,Kedungwungu,224
+7/4/2025,Dog Training Whistle,Alimentación,60.33,29.448198656866057869,8,Online,Meybod,225
+11/11/2024,Vegan Alfredo Sauce,Limpieza,44.53,34.003143850497066931,94,App móvil,San Francisco,226
+4/11/2025,Toilet Paper (12 rolls),Bebidas,25.9,12.83387852725501026,3,App móvil,Koynare,227
+8/19/2024,Digital Photo Frame,Bebidas,18.86,9.020721942633968952,33,Tienda física,Ust’-Kut,228
+1/26/2025,Magic Color-Changing Mug,Limpieza,9.25,6.939599856887177125,67,Online,Cotahuasi,229
+3/7/2025,Electric Egg Cooker,Alimentación,80.9,48.91622068806450742,80,Tienda física,Koilás,230
+3/29/2025,Honey Sesame Cashews,Limpieza,87.27,49.889247888827184417,19,Tienda física,Jingchuan Chengguanzhen,231
+2/17/2025,Black Bean Spaghetti,Limpieza,66.18,49.444461659446384206,26,Tienda física,Huacaschuque,232
+5/29/2025,Car Trash Can,Mascotas,9.76,5.30840495311038056,47,Online,Shiḩan as Suflá,233
+10/8/2024,Pet Carrier Backpack,Alimentación,79.25,52.6145482945816748,20,Online,Pamoyanan,234
+10/25/2024,Pineapple Teriyaki Chicken Mix,Limpieza,98.02,73.95031995325993525,25,App móvil,Älmhult,235
+12/21/2024,Classic Beef Chili,Bebidas,72.1,36.67375840086887866,62,Online,Dahu,236
+10/22/2024,Multicolored LED Strip Lights,Bebidas,89.15,48.870839003707668595,31,Tienda física,Kujang,237
+12/9/2024,Phone Screen Protector,Higiene,4.97,2.717203133127597793,70,Tienda física,Oyem,238
+12/7/2024,Travel Pillow,Higiene,14.95,6.265770322940942255,43,Tienda física,Shamboyacu,239
+9/14/2024,Air Mattress,Higiene,67.63,43.833948271830992133,94,Online,Aksha,240
+7/30/2024,Vegetable Curry,Mascotas,1.13,0.53667762611445727,91,Online,Ngaoundéré,241
+3/8/2025,Ground Turkey,Mascotas,9.67,4.339195704872900957,79,Online,Sokol,242
+1/1/2025,Puzzle Game Set,Mascotas,42.44,33.755906328922874836,71,Online,Xubao,243
+7/15/2025,Fishing Rod,Cosmética,87.91,40.918021604078930097,74,Tienda física,Laborde,244
+6/15/2025,Personal Safety Alarm,Cosmética,12.23,6.671031268492202017,81,App móvil,La Motte-Servolex,245
+9/20/2024,Rice Pudding,Higiene,36.75,18.653869467656250975,23,Tienda física,Ivanishchi,246
+1/8/2025,Garden Vegetable Chips,Cosmética,20.0,11.231805610639056,41,Tienda física,Goworowo,247
+8/7/2024,Cordless Water Flosser,Higiene,72.83,45.380646221621684244,75,Online,Diamantina,248
+10/9/2024,Induction Cooktop,Cosmética,35.59,21.98749786357317692,85,Tienda física,Kuzovatovo,249
+2/24/2025,Magnet Travel Fridge Magnets,Higiene,45.93,21.606044781438039624,22,App móvil,Dongjingcheng,250
+1/16/2025,Fall-Themed Table Runner,Limpieza,89.43,63.856872915748014135,54,Tienda física,La Reforma,251
+4/26/2025,Fishing Tackle Box,Limpieza,31.6,19.99965280993297844,69,Tienda física,Sirnasari,252
+4/17/2025,Classic Beef Chili,Alimentación,21.74,14.370971252856625618,95,Tienda física,Al Funayţīs,253
+6/6/2025,Garam Masala Spice Blend,Higiene,51.98,36.968633482124857284,49,Tienda física,Liantan,254
+7/16/2025,Nutty Granola Clusters,Alimentación,43.02,31.470627157892417988,4,App móvil,Tuy Phước,255
+12/29/2024,Classic Pesto Sauce,Bebidas,88.36,64.381341844387410612,17,App móvil,Maliiha,256
+8/20/2024,Bike Helmet,Alimentación,16.59,10.921338151758863703,21,Tienda física,Wonorejo,257
+4/19/2025,Digital Kitchen Timer,Bebidas,56.27,33.413322698186320216,53,Tienda física,Porto de Mós,258
+1/25/2025,Rice Cakes,Bebidas,28.12,22.032383178678690348,98,Tienda física,Mlawat,259
+12/11/2024,Peanut Butter Pretzel Bites,Alimentación,89.23,40.506848500484079584,80,App móvil,Lāmerd,260
+2/24/2025,Greek Yogurt Parfait,Bebidas,24.38,12.267260990897643044,78,Online,Muramatsu,261
+6/18/2025,Spice Rack,Bebidas,62.54,41.22787762440808075,96,Online,Bao’an,262
+10/8/2024,Spinach Artichoke Dip,Alimentación,34.95,20.365822693756800315,15,Online,Yanwang,263
+1/4/2025,Black Olives,Alimentación,51.5,21.1406284402336099,72,Tienda física,Harbin,264
+4/22/2025,Honey BBQ Ribs,Limpieza,49.28,21.10787341683039712,67,Online,Piranshahr,265
+12/23/2024,Tuna Fish (canned),Mascotas,95.97,65.664349879403949408,23,Online,Luzhang,266
+1/10/2025,Portable Phone Charger,Bebidas,40.93,16.615482369236770002,89,Tienda física,Telangi Satu,267
+1/14/2025,Ginger Turmeric Tea,Higiene,12.75,5.897378883174968025,51,App móvil,Lyon,268
+9/18/2024,Honey Mustard Pretzel Bites,Cosmética,96.62,56.96038964323836277,28,Tienda física,Puger,269
+2/17/2025,Pasta Sauce Mix,Limpieza,76.72,59.561257291758922112,14,Tienda física,Chodová Planá,270
+7/14/2025,Paprika,Cosmética,58.95,24.27837874377585777,77,App móvil,Bazzāryah,271
+2/14/2025,Bluetooth Shower Speaker,Cosmética,61.47,42.531548139348771825,19,Online,Kanḏay,272
+9/13/2024,Nordic Berry Smoothie,Higiene,23.81,15.028922919351326183,24,Online,Asheville,273
+12/14/2024,Baking Powder,Bebidas,71.23,42.922910018546865806,22,Online,Longquan,274
+9/5/2024,Silicone Baking Mats,Bebidas,69.0,32.8255046620938741,97,Tienda física,Palykavichy Pyershyya,275
+11/30/2024,Kale Salad with Lemon Dressing,Cosmética,40.7,21.62751376534472922,64,Tienda física,Sayaxché,276
+3/29/2025,Savory Oats,Mascotas,94.56,37.908295307697030336,20,Tienda física,Kalisari,277
+3/22/2025,Luxury Bath Salts,Higiene,83.19,37.980097294405523784,56,App móvil,Nanshi,278
+9/3/2024,Folding Exercise Bike,Cosmética,92.27,42.826501220159822975,18,Tienda física,Athabasca,279
+1/26/2025,Reusable Snack Bags,Mascotas,91.64,48.031657806390014244,37,Tienda física,Balsas,280
+5/17/2025,Avocado Oil,Cosmética,87.95,37.42146364349500753,19,Online,Wałcz,281
+10/14/2024,Chicken Sausage,Bebidas,26.04,15.665738350996275948,90,Online,Gorodishche,282
+2/13/2025,Floral Wrap Top,Bebidas,94.39,73.382677758838176139,75,Online,Rajhrad,283
+3/30/2025,Instant Mashed Potatoes,Higiene,41.96,19.333485273244210236,66,Tienda física,Buenavista,284
+2/21/2025,Snap-On Tupperware Set,Alimentación,63.05,29.265863952420195165,70,Tienda física,Leyuan,285
+1/8/2025,Cordless Water Flosser,Higiene,5.95,2.416762010815433505,34,App móvil,Fílla,286
+2/5/2025,Pistachio Ice Cream,Bebidas,86.77,59.429645130154300654,16,App móvil,Kandahār,287
+6/25/2025,Rain Jacket,Mascotas,41.76,23.616729137944606608,4,App móvil,Iperu,288
+9/25/2024,Zesty Garlic Hummus,Cosmética,16.65,11.09319754986617544,10,App móvil,Concordia,289
+10/11/2024,Lemon Sorbet,Mascotas,90.41,44.252183290489493999,44,Online,Spas-Klepiki,290
+4/16/2025,Salt and Pepper Grinder Set,Cosmética,77.75,53.503732404713370225,58,Online,Tyler,291
+5/4/2025,Kale & Quinoa Salad Mix,Higiene,68.41,28.03378507871920115,46,Online,Malusay,292
+6/24/2025,Vanilla Protein Powder,Higiene,5.07,3.208021745966434371,15,App móvil,Energeticheskiy,293
+5/10/2025,Self-Cleaning Water Bottle,Bebidas,71.34,54.074861821905988038,79,App móvil,Gaogu,294
+12/25/2024,DIY Organic Gardening Kit,Higiene,76.97,37.953853621589596575,45,App móvil,Sukasenang,295
+9/23/2024,Sweet Potato Chips,Mascotas,5.45,2.908186518130007685,74,App móvil,Liliba,296
+10/24/2024,Plant-Based Cookbook,Bebidas,79.65,62.745666875853078015,76,Online,Fanrong,297
+6/19/2025,Wireless Printer,Higiene,45.33,26.065050623802244794,12,Tienda física,Karipidita,298
+11/6/2024,Non-Stick Baking Sheet,Alimentación,52.07,37.836003058370596602,19,Online,Dzel,299
+8/18/2024,Glass Tea Pot,Alimentación,41.95,25.82993336339779231,2,App móvil,Clearwater,300
+11/13/2024,Guitar Tuner,Bebidas,68.1,27.78245147458279719,9,Tienda física,Kuanchuan,301
+9/14/2024,Sun-Dried Tomatoes,Limpieza,31.84,14.796746436170719696,45,Tienda física,Yuewan,302
+12/25/2024,Chili Garlic Sauce,Higiene,92.39,71.24310348093536946,76,Online,Teluk Pinang,303
+12/11/2024,Plant Growing Kit,Higiene,85.17,37.869536394125996466,3,Online,Josefina,304
+6/22/2025,Coffee Subscription Service,Mascotas,60.65,34.26400045347897165,53,Online,Baizhifang,305
+1/10/2025,Sweet Potato Mash,Mascotas,71.57,30.133677937844919093,12,App móvil,Temayang,306
+5/7/2025,Portable Pet Pooper Scooper,Higiene,80.37,36.900602300353890564,2,Online,Dahu,307
+6/11/2025,Digital Photo Frame,Mascotas,23.84,17.640222588564976736,26,App móvil,Alcabideche,308
+1/10/2025,Garam Masala Spice Blend,Higiene,4.44,2.403866687175792072,31,App móvil,Togitsu,309
+3/26/2025,Pet Hair Vacuum Cleaner Attachment,Higiene,61.94,49.295666692254577642,98,Online,Shuikou,310
+10/31/2024,Fresh Lemons,Alimentación,80.39,44.822679825112533473,50,App móvil,Santa Maria,311
+3/19/2025,Cheddar & Bacon Potato Skins,Limpieza,14.04,6.046237821385648692,35,Tienda física,Esik,312
+4/28/2025,Silicone Baking Cups,Cosmética,3.6,1.74946773595194,42,App móvil,Mashiko,313
+1/1/2025,Ski Goggles,Higiene,15.81,7.669703655306201999,77,Tienda física,Leskolovo,314
+10/9/2024,Insulated Coffee Mug,Limpieza,46.63,20.971565166566682705,94,Tienda física,Taboão da Serra,315
+2/3/2025,Coconut Chia Seed Pudding,Alimentación,41.37,25.652849018549306064,97,App móvil,Les Sables-d'Olonne,316
+3/23/2025,Fitbit Activity Tracker,Bebidas,93.44,42.801567911944119296,62,Tienda física,Pakuranga,317
+9/21/2024,Portable Grill Cover,Cosmética,88.74,70.142395277391710904,9,Online,Pabean,318
+12/8/2024,Fitness Activity Journal,Bebidas,14.06,10.733268296839636252,19,App móvil,Kawęczyn,319
+2/19/2025,BBQ Jackfruit,Alimentación,62.02,36.22150264016820473,51,Tienda física,Brunssum,320
+3/11/2025,Pumpkin Pancake Mix,Higiene,55.2,31.67269154170938888,59,Tienda física,Panenggoede,321
+5/11/2025,Pocket Blanket,Cosmética,90.15,48.56970013047189159,98,Tienda física,Shangqing,322
+9/14/2024,Winter Knit Beanie,Cosmética,55.48,24.268709427565623752,23,Online,Kafr Baţnā,323
+12/28/2024,Organic Quinoa Salad,Alimentación,89.66,69.193710559985192646,53,Online,Sekondi-Takoradi,324
+3/3/2025,Watercolor Brush Pens,Bebidas,95.54,46.177101262668943954,78,Tienda física,Lakkha Nëvre,325
+8/19/2024,Avocado Oil,Cosmética,86.35,56.964743981548041815,56,Tienda física,Jacksonville,326
+10/18/2024,Pesto Pasta Salad,Limpieza,91.55,40.460499750934741635,7,App móvil,Asker,327
+9/21/2024,Weighted Blanket,Bebidas,34.47,23.94367394277676959,9,Tienda física,Pubal,328
+10/12/2024,Legging Pants,Bebidas,68.71,31.045655765851695077,19,Tienda física,Mentougou,329
+6/14/2025,Biodegradable Phone Case,Alimentación,37.71,15.328154439486195012,36,Tienda física,Bucu Kidul,330
+7/14/2025,Apple Cinnamon Granola,Mascotas,99.04,59.807454265809761456,26,Online,Třebíč,331
+9/12/2024,Chic Jumpsuit,Alimentación,38.82,25.2645631319584149,82,App móvil,Yuping,332
+3/31/2025,Quinoa Salad,Bebidas,88.86,36.677161016654889504,43,App móvil,Nglojo,333
+12/4/2024,Motion Sensor Light,Limpieza,56.25,23.20025461382863125,38,App móvil,Paris 20,334
+5/24/2025,Collapsible Camping Cup,Higiene,48.96,36.397320840218041344,90,Online,Yinyang,335
+2/28/2025,Kids' Activity Book,Alimentación,11.59,5.628530884362666976,55,Online,Rogóźno,336
+5/8/2025,Smart Water Bottle with Hydration Reminder,Alimentación,87.0,57.4415418885176172,94,App móvil,Shkotovo,337
+5/2/2025,Ready-to-Eat Chili,Bebidas,8.02,3.275694769780558112,71,App móvil,Jukui,338
+3/30/2025,Digital Bullet Journal,Cosmética,4.0,2.9778784179452168,29,App móvil,Umeå,339
+12/30/2024,Organic Brown Rice Cakes,Bebidas,76.99,33.330063559737855374,40,Online,Skaudvilė,340
+3/10/2025,Smart Doorbell,Higiene,69.58,30.636159355793181218,83,Tienda física,Viña del Mar,341
+12/1/2024,Fitbit Activity Tracker,Limpieza,9.66,7.417369972896765672,45,Online,Lazarevac,342
+12/1/2024,Grilled Vegetable Medley,Higiene,93.76,63.269953407147172672,67,Online,Krasnaya Poyma,343
+1/1/2025,Kitchen Knife Sharpening System,Limpieza,14.31,10.562946906954548151,95,Online,Areni,344
+8/13/2024,Multi-Layer Food Steamer,Mascotas,98.21,50.97993723801860224,44,Online,Parkent,345
+10/13/2024,Jasmine Rice,Bebidas,49.82,25.311703227359334554,3,Tienda física,Estribeiro,346
+7/25/2024,Oven Mitts with Pocket,Mascotas,87.24,35.30270211251431824,32,Tienda física,Litan,347
+8/8/2024,DIY Lip Balm Kit,Limpieza,2.92,2.188918224571925836,14,Online,Mendes,348
+1/6/2025,Slim Fit Chinos,Limpieza,78.37,42.288396165653100745,10,Tienda física,Gumdag,349
+9/15/2024,Digital Food Scale,Alimentación,40.25,19.137519740191941025,36,Tienda física,Novoishimskiy,350
+2/23/2025,Honey BBQ Ribs,Mascotas,73.52,40.21531617164036792,61,Online,Sydney,351
+12/8/2024,Samoas Cookie Mix,Cosmética,80.05,59.230390384387606685,47,App móvil,Smoky Lake,352
+5/10/2025,Crispy Tofu Bites,Mascotas,57.01,37.075003081381242071,27,Online,Canavieiras,353
+2/18/2025,Trendy Bomber Jacket,Alimentación,96.34,56.302709805131003562,37,App móvil,Mawa,354
+6/9/2025,Phone Case,Higiene,42.2,32.29183116037198894,51,App móvil,Penelas,355
+1/3/2025,Strawberry Banana Smoothie Pack,Alimentación,1.14,0.870932162899184706,27,App móvil,Cikomara,356
+3/4/2025,Electric Toothbrush Holder,Alimentación,38.45,26.818851174820948625,49,Tienda física,Ban Bueng,357
+1/29/2025,Window A/C Unit,Mascotas,83.12,34.483824954411626632,87,Tienda física,Miass,358
+2/3/2025,Spicy Vegetable Sushi Rolls,Limpieza,79.21,42.251363172618223431,32,Tienda física,Ditang,359
+12/14/2024,Honey Sesame Chicken Mix,Alimentación,45.46,23.639583453496803094,41,App móvil,Västanfjärd,360
+3/3/2025,Bamboo Toothbrush,Higiene,50.72,25.450418433266128064,97,Online,Marcala,361
+10/14/2024,Portable Solar Charger,Alimentación,18.82,10.124474301748964228,67,App móvil,Siliana,362
+6/25/2025,Glass Water Bottle,Alimentación,81.42,46.637295636075566448,47,App móvil,Devnya,363
+12/4/2024,Dog Training Clicker,Limpieza,59.69,36.505229698372294389,77,Tienda física,Aviá Terai,364
+6/9/2025,Peach Yogurt,Cosmética,84.87,59.447658170323936071,73,App móvil,Hai’an,365
+1/13/2025,Hot Dog Buns,Cosmética,40.08,23.474075212956844032,45,App móvil,Qingkou,366
+12/14/2024,Teriyaki Chicken Wings,Limpieza,77.41,31.608000623266553191,6,Tienda física,Santa Teresita,367
+6/16/2025,Air Mattress,Cosmética,72.03,34.362072872785221669,93,Online,São Francisco do Conde,368
+5/1/2025,Sweet Potato Chips,Alimentación,94.37,69.759925236597293086,11,Tienda física,Cherkasskoye,369
+4/12/2025,Bamboo Utensil Set,Higiene,39.71,16.883321712564528562,23,Tienda física,Xiashe,370
+12/29/2024,Kid's Fruit Snacks,Alimentación,71.04,46.610201770340673024,86,App móvil,Cayang,371
+1/27/2025,Ginger Turmeric Latte Mix,Mascotas,47.29,25.814835701370921027,91,Online,Bolyarovo,372
+11/15/2024,Frozen Edamame,Higiene,2.72,1.614826697067105376,57,App móvil,Xiangzikou,373
+9/2/2024,Telescope,Alimentación,23.81,19.024896590977170246,93,Online,Zhishan,374
+12/16/2024,Puzzle Mat,Cosmética,3.39,1.911321831559918422,6,App móvil,Gaplokan,375
+10/3/2024,Italian Herb Balsamic Marinade,Limpieza,9.52,7.423144219085441336,39,App móvil,Shinpokh,376
+4/29/2025,Cotton Tote Bag Set,Cosmética,24.27,14.344845790320085566,88,Online,Tama,377
+3/10/2025,Portable Campfire,Mascotas,92.72,61.296763643828323352,87,Online,Gushan,378
+6/28/2025,Coconut Almond Granola,Mascotas,43.53,34.665992757650500446,62,Online,Pangatikan,379
+1/25/2025,Granola Bars,Cosmética,70.43,32.649016084581784012,39,Online,Xiangquan,380
+8/3/2024,Caramelized Onion Dip Mix,Limpieza,53.46,30.79202709090015684,25,Online,Komsomolets,381
+10/31/2024,Electric Pressure Cooker,Alimentación,13.03,8.761399352936575281,30,App móvil,Taihe Chengguanzhen,382
+5/3/2025,Coconut Milk Ice Cream,Bebidas,30.3,20.23254637244375733,6,Tienda física,Mabini,383
+8/15/2024,Chickpea Pasta,Mascotas,74.01,48.371342095734909702,8,App móvil,Tambo,384
+11/28/2024,Scented Soy Candles,Alimentación,89.11,43.291581884439518007,55,App móvil,Jindu,385
+10/24/2024,Mini Projector,Higiene,5.93,3.66568231262892843,31,Online,Guaranésia,386
+9/20/2024,Oven-Baked Potato Chips,Limpieza,44.66,31.555138360748323552,37,Tienda física,Athabasca,387
+11/18/2024,Durable Hiking Boots,Cosmética,79.72,52.193932505033215424,88,App móvil,Xiapu,388
+3/20/2025,Electric Nail File Kit,Alimentación,70.89,33.198532039093269501,13,App móvil,Penedo,389
+6/3/2025,Mint Chocolate Chip Ice Cream,Higiene,90.76,56.267273413561018856,2,Online,Volosovo,390
+7/23/2024,Gluten-Free Bread,Limpieza,80.03,52.846689141060413644,37,Tienda física,Xai-Xai,391
+10/5/2024,Frozen Fruit Medley,Cosmética,34.74,20.33566834053243897,21,Tienda física,Arapongas,392
+2/13/2025,Butternut Squash Soup,Higiene,23.25,12.333584600840626725,77,App móvil,København,393
+7/1/2025,Dog Waste Bag Dispenser,Limpieza,10.57,4.590560550070709739,80,Online,Áyios Vasílios,394
+3/9/2025,Compact Hair Dryer,Cosmética,9.74,3.899877056688252542,27,Online,Autun,395
+2/24/2025,Foldable Picnic Table,Alimentación,2.82,1.932699260450941134,16,Tienda física,Bowen Island,396
+1/1/2025,Sunglasses Case,Higiene,17.78,10.826138716253539966,21,Tienda física,Beckerich,397
+6/4/2025,Car Windshield Sun Shade,Mascotas,51.57,29.041825786605021474,15,App móvil,Anderstorp,398
+3/6/2025,Samsung Galaxy Smartwatch,Bebidas,90.43,45.194957364276688597,62,Online,São Gonçalo do Amarante,399
+11/24/2024,Avocado Lime Dressing,Higiene,70.86,42.047391837416415858,9,Tienda física,Zyuzino,400
+3/19/2025,Indoor Grill,Mascotas,79.01,41.545061278313344948,1,Tienda física,Marystown,401
+4/22/2025,Vegan Tacos,Mascotas,3.28,1.94708703505556364,35,Tienda física,Guarda Nova,402
+4/28/2025,Chunky Knit Sweater,Higiene,82.87,51.501137203035283333,1,Tienda física,Bumbuna,403
+4/29/2025,Photo Album,Bebidas,19.19,9.337719215923400989,36,Tienda física,Savran’,404
+10/11/2024,Electronic Drum Kit,Higiene,96.97,54.616455229879117279,81,Tienda física,Dana,405
+12/10/2024,Peach Fruit Cups,Limpieza,72.39,36.658219882122339438,89,App móvil,Goodlands,406
+8/24/2024,Buttermilk Pancakes,Limpieza,42.66,24.031059438463109658,94,App móvil,Boevange-sur-Attert,407
+1/3/2025,Indoor Plants,Alimentación,29.89,14.538600198085925745,56,App móvil,Malasin,408
+8/21/2024,Tea Infuser,Alimentación,63.06,42.480588638107620828,18,Online,Jimeta,409
+3/17/2025,Salt and Pepper Grinder Set,Alimentación,78.22,33.672295182587091468,79,App móvil,Macau,410
+4/20/2025,Camera Tripod,Higiene,6.86,5.165579416421513628,33,App móvil,Hanna,411
+1/15/2025,Car Phone Mount,Higiene,63.88,34.65423539329213838,85,Tienda física,Elvas,412
+12/14/2024,Portable Bluetooth Keyboard,Higiene,89.7,40.23251993246999877,93,Tienda física,Pinamalayan,413
+12/2/2024,Peach Green Tea,Limpieza,89.0,68.1063933827966225,90,Online,Petrolia,414
+7/5/2025,Black Olives,Bebidas,75.9,49.04062428801841173,57,Tienda física,Thị Trấn Quảng Uyên,415
+2/4/2025,Weighted Jump Rope with Counter,Limpieza,58.19,42.629945235749676222,70,Online,Gainesville,416
+2/22/2025,Air Mattress,Cosmética,60.37,41.086387048111481865,21,Online,Villa María,417
+5/18/2025,Leek and Potato Soup,Limpieza,34.72,20.43583087373767464,49,App móvil,Al Jawf,418
+2/11/2025,Berries Medley,Mascotas,42.25,25.748232001855978225,96,Online,Jiujie,419
+7/19/2025,Basmati Rice,Cosmética,83.88,45.507030842796853212,23,App móvil,Zhaozhen,420
+8/7/2024,Maple Almond Granola,Limpieza,20.38,11.359094111374973598,18,App móvil,Santa Maria,421
+1/26/2025,Electric Griddle with Removable Plates,Mascotas,67.33,51.830027079487530269,99,Online,Kalepasan,422
+9/7/2024,Smart Light Switch,Alimentación,65.19,45.444385974004094982,77,Online,Morelos,423
+4/9/2025,Chickpeas,Bebidas,77.07,57.569018278254689514,38,App móvil,Fusagasuga,424
+8/9/2024,Chipotle Black Bean Salad,Cosmética,94.14,50.970410218612285902,78,Online,Pegongan,425
+9/1/2024,Lentil Soup,Higiene,10.56,7.49737254669190656,91,App móvil,Eira da Pedra,426
+12/28/2024,Graphic Sweatshirt,Higiene,41.0,18.3812248862884083,14,App móvil,Pokrovskoye,427
+8/28/2024,Fruit and Nut Bars,Alimentación,17.74,9.64361137483167382,31,App móvil,Inongo,428
+2/17/2025,Non-Stick Baking Sheet,Bebidas,76.7,32.42803779207755503,8,Online,Nueva Italia,429
+1/25/2025,Apple Cinnamon Granola,Bebidas,10.44,6.938678803412611548,6,App móvil,Orkney,430
+1/29/2025,Smart Scale,Mascotas,11.97,5.656196116167484419,21,App móvil,Jatibonico,431
+11/9/2024,Peanut Butter Protein Balls,Bebidas,79.76,60.89318305271201772,48,App móvil,Banjar Sebual,432
+11/5/2024,Stick Vacuums Cleaner,Limpieza,44.99,32.854560088731870676,40,Tienda física,La Virginia,433
+8/27/2024,Spicy Garlic Edamame,Limpieza,91.6,44.89863576735899652,28,Tienda física,Llanera,434
+5/16/2025,Honey Mustard Chicken Breasts,Alimentación,19.78,9.01611476930808594,68,Online,Bayshint,435
+6/9/2025,Home Office Chair,Mascotas,30.74,21.440631864827211186,92,Tienda física,Périgueux,436
+9/15/2024,Multi-Function Smartphone Holder,Limpieza,61.76,43.435576719330197344,69,Online,Bordeaux,437
+2/20/2025,Smartphone Tripod,Limpieza,1.72,1.114368969371491312,18,App móvil,Bagulin,438
+5/12/2025,Camping Chair,Mascotas,11.07,8.048340513547056378,87,Tienda física,Tomelilla,439
+10/1/2024,Portable Jump Starter,Mascotas,86.53,44.217991499110877072,55,Online,Hongtu,440
+2/26/2025,Watercolor Brush Pens,Bebidas,18.14,13.464535277681603856,87,App móvil,Parabcan,441
+6/18/2025,Fashionable Scarves Set,Cosmética,32.34,17.084700063360078072,18,App móvil,Manukau City,442
+10/15/2024,Garlic Parmesan Roasted Potatoes,Alimentación,6.14,4.772662391188774208,5,App móvil,Pasirpengarayan,443
+4/27/2025,Strawberry Rhubarb Jam,Alimentación,89.83,67.755998111747335806,90,App móvil,Nemyriv,444
+2/23/2025,Honey Garlic Sauce,Higiene,9.38,6.044309016310055456,7,Tienda física,Avellaneda,445
+5/21/2025,Graphic Sweatshirt,Bebidas,40.36,18.846324228909653032,5,App móvil,Yuncheng,446
+3/1/2025,Tahini,Bebidas,73.94,50.430499483217079886,31,Tienda física,Alcorriol,447
+3/18/2025,Fruit and Nut Energy Bites,Mascotas,16.37,7.161920533697361018,4,App móvil,Agua Blanca,448
+3/28/2025,Berries Medley,Mascotas,61.64,41.338461139687066328,23,Tienda física,Maochen,449
+8/27/2024,Pretzel Bites,Cosmética,3.9,2.96855149699297449,7,Online,Cerro Punta,450
+9/11/2024,Adjustable Skipping Rope,Mascotas,4.53,2.810651485473584253,50,Online,Fangshan,451
+1/15/2025,Smart Plant Monitor,Higiene,8.22,4.621434114101294892,49,Tienda física,Gniechowice,452
+3/10/2025,Wireless Charging Pad,Limpieza,79.34,51.234015678304048286,47,Tienda física,Bồng Sơn,453
+7/12/2025,Nutty Trail Mix,Higiene,55.26,25.03548746209732185,40,Tienda física,Kyzyl,454
+2/3/2025,Organic Coconut Yogurt,Cosmética,88.49,57.304249568482245175,45,Online,Kuma,455
+6/23/2025,Vegetable Chips,Higiene,21.98,12.890901348684338826,29,App móvil,Xinhua,456
+3/1/2025,Sushi Roll Kit,Limpieza,8.97,5.929835601284252619,41,Tienda física,Tomilino,457
+6/22/2025,Almond Butter Cups,Cosmética,33.09,22.16647430924507421,33,Online,Nossa Senhora do Socorro,458
+8/25/2024,Sliced Ham,Limpieza,96.8,47.74523597785519072,9,Online,La Cruz,459
+2/18/2025,Organic Tomato Soup,Bebidas,76.91,36.520074925420713345,60,Tienda física,Tsagaannuur,460
+12/15/2024,Basic V-Neck T-Shirt,Alimentación,52.34,29.926111198186251604,85,App móvil,Rukunlima Bawah,461
+11/19/2024,Vegetable Fried Rice,Bebidas,99.66,49.13084127645861915,73,Tienda física,Duyanggang,462
+3/28/2025,Organic Whole Grain Oats,Alimentación,14.87,11.298395817748231738,16,Online,Sillon,463
+7/17/2025,Asian Noodle Salad Kit,Limpieza,50.7,34.62563484598827336,44,App móvil,Bancar,464
+7/11/2025,Honey Mustard Sauce,Mascotas,79.11,35.520694825493291652,78,Online,Seredyna-Buda,465
+4/10/2025,Non-Toxic Crayons for Kids,Mascotas,40.76,19.500822026752333676,90,App móvil,Ledenice,466
+12/2/2024,Freestanding Wine Rack,Bebidas,99.71,76.468045502442130862,5,Tienda física,Houxi,467
+11/26/2024,Spicy Kimchi,Higiene,10.38,8.15851409740625637,61,Tienda física,Ḩurayḑah,468
+5/23/2025,Smartphone Projector Kit,Higiene,26.37,11.957791260856306536,75,Online,Mthatha,469
+7/6/2025,Mechanical Keyboard,Bebidas,81.31,44.568618774282629924,79,Tienda física,Svalöv,470
+1/15/2025,Infrared Space Heater,Alimentación,64.97,31.313270269718715226,84,Tienda física,Henghe,471
+11/29/2024,Multi-Tool,Alimentación,27.18,18.765312609106709478,23,Tienda física,Aix-en-Provence,472
+3/1/2025,Magnetic Screen Door,Cosmética,92.93,59.984301845798991252,37,App móvil,Madona,473
+8/13/2024,Pistachios,Alimentación,69.03,44.127666833707470078,27,Online,Tulihe,474
+3/21/2025,Buffalo Cauliflower Wings,Limpieza,96.34,65.619250158468960032,34,Online,Rentian,475
+12/11/2024,Oven Mitts with Pocket,Cosmética,87.04,62.559044634243938304,45,Online,Dafang,476
+2/25/2025,Chocolate Almond Milk,Alimentación,92.96,55.733804139084604848,52,App móvil,Rosebank,477
+4/6/2025,Water-Resistant Bluetooth Speaker,Mascotas,72.73,44.609650710807329973,74,Online,Jaro,478
+8/23/2024,Digital Wireless Meat Thermometer,Cosmética,3.85,1.97635821111060178,79,Tienda física,Malo,479
+6/3/2025,Customizable Wall Calendar,Higiene,10.26,6.675185976913529874,3,App móvil,Talugtug,480
+11/4/2024,Kids' Science Experiment Kit,Higiene,56.44,35.523148213308189924,10,Tienda física,Beiyang,481
+12/28/2024,Garlic Breadsticks,Limpieza,97.77,47.635258595528945802,99,App móvil,Povorino,482
+1/1/2025,Reusable Silicone Food Storage Bags,Bebidas,44.96,26.095022759903248752,44,App móvil,Złotniki Kujawskie,483
+11/1/2024,Scent Diffuser,Bebidas,87.15,51.940119459151676865,24,Online,Ragay,484
+5/30/2025,Coconut Rice,Higiene,41.98,17.025151380622186452,43,Online,Caacupé,485
+8/13/2024,Ice Cream,Bebidas,25.2,15.34284478897318764,29,Tienda física,Las Heras,486
+11/22/2024,Chocolate Coconut Granola,Cosmética,97.02,76.097442182190291324,96,App móvil,San Felipe,487
+11/4/2024,USB Desk Fan,Limpieza,63.08,34.040224242185488328,52,Tienda física,Sūq Şirwāḩ,488
+6/21/2025,Scented Candle Set,Higiene,51.64,39.237978929100089556,28,Tienda física,Juan L. Lacaze,489
+1/25/2025,Faux Fur Coat,Higiene,29.75,15.8824058993478529,62,Online,Moya,490
+11/22/2024,DIY Organic Gardening Kit,Mascotas,11.22,8.938259262194412678,94,App móvil,Skellefteå,491
+11/12/2024,Sooji (Semolina),Bebidas,68.95,34.581442788051299245,25,App móvil,Divača,492
+11/19/2024,Chocolate Chip Pancake Mix,Limpieza,70.43,39.725823078761380092,56,Tienda física,Talā,493
+12/21/2024,Travel Orthopedic Pillow,Higiene,39.09,28.471923964492474797,96,Tienda física,Xiaxindian,494
+3/14/2025,Organic Tomato Ketchup,Mascotas,62.15,31.242117042163184465,76,App móvil,Tebanah,495
+2/26/2025,Sun-Dried Tomatoes,Cosmética,36.77,22.597709599817362799,1,Tienda física,Jianggao,496
+10/27/2024,Animal Paw Print Soap Dispenser,Cosmética,76.27,40.645329358093043322,69,Tienda física,Munka-Ljungby,497
+1/30/2025,Home Delivery Food Journal,Bebidas,35.27,26.56059649029815715,11,Tienda física,Xinghua,498
+8/3/2024,Almond Flour Pancake Mix,Limpieza,62.43,33.216608358969622302,40,Tienda física,Taipingchuan,499
+5/6/2025,Organic Quinoa,Alimentación,45.66,30.392785167264095268,95,Online,Gaotang,500
+3/31/2025,Belted Trench Coat,Limpieza,66.18,28.81455106572050727,99,Tienda física,Aizi,501
+10/16/2024,Puzzle Game Set,Bebidas,77.95,38.34196587807971124,97,Online,Bayt Ta‘mar,502
+1/31/2025,Mini Projector,Bebidas,13.39,9.487013436155674497,87,Tienda física,Niny,503
+1/18/2025,Travel Yoga Mat,Cosmética,36.12,14.854283056387907916,30,Tienda física,Bandar-e Lengeh,504
+6/12/2025,Dark Chocolate Covered Raisins,Bebidas,30.06,20.909199633893315694,14,App móvil,Kondangrege,505
+3/24/2025,Tea Set with Infuser,Alimentación,86.72,50.724244165343297984,22,Online,Xixiang,506
+6/21/2025,Organic Black Bean Burger,Bebidas,13.82,10.10029940203019792,50,Tienda física,Jinguoping,507
+4/29/2025,Insulated Lunch Box,Cosmética,56.62,26.682801305933742924,74,Tienda física,Lamas,508
+1/13/2025,Almond Crunch Granola Bars,Bebidas,94.99,68.693234415277690974,39,Online,Chamalières,509
+4/22/2025,Lentils,Mascotas,22.32,11.708201097234969408,86,App móvil,Spirovo,510
+7/1/2025,Kids' Crafting Station,Cosmética,24.69,15.222052105238865363,70,Tienda física,Odiongan,511
+6/6/2025,High-Quality Yoga Block,Limpieza,93.02,54.714027385994153734,19,Tienda física,Gegernoong,512
+10/13/2024,Vegan Cheese,Limpieza,68.98,28.62146583253247221,31,App móvil,Boca de Uchire,513
+7/31/2024,Skincare Set,Bebidas,87.23,49.254446255337135956,48,Tienda física,Temandangjero,514
+10/14/2024,Kids' Art Supplies Kit,Alimentación,7.89,3.709801051817039595,52,Online,Nicolas Bravo,515
+4/6/2025,Car Vacuum,Mascotas,28.02,16.354332938396468298,52,Tienda física,Jesús Menéndez,516
+7/3/2025,Fitness Smartwatch,Higiene,12.89,7.71213947632051745,13,App móvil,Sumanding,517
+5/8/2025,Organic Whole Wheat Flour,Bebidas,11.87,8.06452080409259931,39,App móvil,Cordon,518
+1/16/2025,Essential Oils Diffuser Necklace,Bebidas,90.23,65.937614278635846453,46,Tienda física,Jangkat,519
+7/25/2024,Colorful Post-It Notes Set,Limpieza,78.8,52.67876131703976084,71,Tienda física,Revelstoke,520
+7/1/2025,Vegetable Medley,Mascotas,15.79,12.624817721822657465,93,App móvil,Itaituba,521
+1/30/2025,Garlic Parmesan Roasted Potatoes,Alimentación,41.7,26.24760335561911152,4,Online,Kibonsod,522
+3/14/2025,Basketball,Limpieza,35.91,20.810396540607654645,59,Online,Roma,523
+5/4/2025,Vegetable Stir Fry Mix,Limpieza,10.42,6.445390528416115124,88,Online,Isehara,524
+6/18/2025,Car Seat Organizer,Alimentación,15.3,10.49536009878755193,27,Tienda física,Virginia Beach,525
+5/5/2025,Snap-On Tupperware Set,Alimentación,99.85,71.455843061711015655,7,App móvil,Dřiteň,526
+2/18/2025,Samoas Cookie Mix,Cosmética,41.56,20.898952215901931496,17,Online,Klippan,527
+4/1/2025,Mango Sticky Rice Dessert,Bebidas,17.35,12.201096839316369425,54,Tienda física,Tagbacan Ibaba,528
+11/11/2024,Spicy BBQ Sauce,Cosmética,91.67,45.66794530624287078,18,Online,Pohbango,529
+12/3/2024,Wine Decanter,Cosmética,71.82,39.372424207971525594,83,Tienda física,Zvole,530
+4/13/2025,Buffalo Wing Sauce,Alimentación,39.48,22.292532072910481004,14,Tienda física,Tajur,531
+7/15/2025,Fitness Jump Box,Higiene,13.07,6.052975896309562271,10,Online,Kłomnice,532
+4/15/2025,Personalized Pet ID Tags,Cosmética,47.65,35.96957415592363526,99,Online,Bolotnoye,533
+4/8/2025,Garam Masala Spice Blend,Alimentación,76.89,43.195056510453884685,51,Tienda física,Villa Paula de Sarmiento,534
+5/2/2025,LED Christmas Lights,Mascotas,91.32,41.323157624310462336,89,App móvil,Siguiri,535
+8/5/2024,Multi-Cooker,Mascotas,4.04,3.107804064994138892,62,Tienda física,Toulouse,536
+9/16/2024,Ceramic Bakeware Set,Cosmética,53.76,26.948146012717219584,28,App móvil,Ḑubāh,537
+5/19/2025,Elegant Maxi Skirt,Bebidas,58.69,39.512838498846941925,2,Online,Kopral,538
+4/2/2025,Fishing Rod,Limpieza,41.85,21.162963420998199855,73,Online,Batulayang,539
+10/12/2024,Cotton Basic Tank,Bebidas,21.42,15.843320767355041926,61,App móvil,Aíyira,540
+9/20/2024,Dish Soap Dispenser,Mascotas,4.52,3.588636253983616764,10,Online,Chengfeng,541
+10/15/2024,Grapes (red),Higiene,53.86,41.520333803525028354,78,Online,Marapat,542
+12/8/2024,Kids' Educational Tablet,Higiene,92.85,70.48264696913910297,76,Tienda física,Banjar Peguyangan,543
+5/3/2025,Chocolate Covered Pretzels,Cosmética,93.06,39.555329298442965612,8,Tienda física,Al Qurayn,544
+4/30/2025,Travel Orthopedic Pillow,Mascotas,80.8,60.02724381862589224,58,App móvil,Bystra,545
+12/29/2024,Teriyaki Salmon Fillets,Limpieza,90.24,48.563758126532721024,45,Tienda física,Turirejo,546
+6/29/2025,Classic Bagels,Cosmética,32.35,24.500774431132607585,59,Online,Marcala,547
+7/9/2025,Lentil Pasta,Higiene,1.69,1.248163495137233987,88,Tienda física,Banjar Taro Kelod,548
+2/19/2025,Scented Candle Set,Higiene,83.12,66.055571210250076736,79,Online,Ubonratana,549
+5/31/2025,Dried Apricots,Mascotas,70.36,39.704703049984367484,15,Tienda física,Tanglag,550
+1/6/2025,Pretzel Bites,Limpieza,50.29,26.828854845079192084,33,App móvil,Buinsk,551
+11/2/2024,Teriyaki Tofu Stir-Fry,Higiene,86.09,38.521553765027824931,37,App móvil,Saint-Fargeau-Ponthierry,552
+6/16/2025,Frozen Spinach,Cosmética,53.79,33.167207727957606039,11,App móvil,Empedrado,553
+3/13/2025,Classic Cheesecake Mix,Cosmética,36.53,23.961952018274743343,17,App móvil,Meliau,554
+1/4/2025,Creamy Spinach Dip,Limpieza,82.18,51.604552266164502066,22,Tienda física,Lesnyye Polyany,555
+8/20/2024,Wooden Blocks,Higiene,95.24,55.49860672646967354,72,Tienda física,Goryachevodskiy,556
+2/13/2025,Creamy Garlic Dressing,Alimentación,19.08,12.03669779468972868,54,App móvil,Tournai,557
+10/25/2024,Nutty Granola Clusters,Cosmética,80.77,34.743693290115728718,38,Tienda física,Araci,558
+7/31/2024,Cinnamon Ice Cream,Higiene,61.01,46.389186714840942034,78,Online,Älvdalen,559
+2/22/2025,Artisan Bread Loaf,Alimentación,2.36,1.72526169171309014,95,Tienda física,Mbigou,560
+10/20/2024,Field Journal,Higiene,44.18,18.967076563217599936,97,Tienda física,Nanchangshan,561
+5/20/2025,Pet Safety Belt for Car,Alimentación,13.58,7.29494650631393402,69,Tienda física,Al Mazzūnah,562
+5/16/2025,Action Camera,Mascotas,89.53,46.344141607207611713,68,App móvil,Ōno-hara,563
+11/10/2024,Wi-Fi Enabled Smart Light Switch,Limpieza,99.65,73.732305547982034025,28,App móvil,Astypálaia,564
+9/27/2024,Travel Pillow with Memory Foam,Cosmética,45.72,28.420884204437738196,15,Tienda física,Grammatikó,565
+3/1/2025,Portable Air Pump,Mascotas,36.18,15.397758243589718196,2,Tienda física,Anle,566
+11/1/2024,Walnut Halves,Bebidas,20.05,9.23341515697053828,92,Online,Nanling,567
+5/17/2025,Portable Solar Generator,Mascotas,27.0,15.4380401488848024,66,Online,Puerto de Nutrias,568
+4/18/2025,Teriyaki Chicken Stir-Fry,Mascotas,82.87,33.286975205118505957,74,Tienda física,Lingcheng,569
+7/20/2025,Wireless Security Camera,Higiene,8.78,5.796148411450685574,16,App móvil,Yinhedahan’er,570
+4/11/2025,Sweet Potatoes (organic),Higiene,93.77,48.396326838968879441,48,Online,Bafoulabé,571
+3/9/2025,Essential White Button-Up,Alimentación,11.78,8.800933660888426182,21,App móvil,Pulaupanggung,572
+4/20/2025,Cinnamon Raisin Bagels,Bebidas,63.23,29.111343089579857602,45,App móvil,Randu,573
+12/9/2024,Phone Screen Protector,Higiene,48.34,32.399946271308136558,62,Tienda física,Asenovgrad,574
+1/22/2025,Fitness Resistance Bands Kit,Cosmética,79.97,38.943425777089417936,75,Tienda física,Nkhotakota,575
+2/6/2025,Cheese Stuffed Jalapenos,Higiene,22.26,10.589159225163829884,79,App móvil,Santa Catalina,576
+9/29/2024,Vegetable Broth,Limpieza,10.16,6.999104861949307312,26,Tienda física,Warmbaths,577
+7/27/2024,Mini Hand Gesture Drone,Limpieza,1.75,0.848063417578417775,35,Online,Sipe Sipe,578
+7/2/2025,Wild Rice & Quinoa Mix,Limpieza,1.55,1.022570726870582975,80,Online,Usulután,579
+11/3/2024,Creamy Coleslaw Mix,Higiene,40.65,18.83726786138294949,80,Tienda física,Velyki Kopany,580
+12/18/2024,Incense Holder,Alimentación,47.77,31.409308316939900306,48,Online,Navariya,581
+6/25/2025,Spicy Thai Coconut Soup,Higiene,87.45,68.70600109661558721,26,Online,La Libertad,582
+8/14/2024,Balsamic Salad Dressing,Higiene,80.18,59.750560572141835948,98,Online,Yanling,583
+3/8/2025,Smartwatch,Mascotas,26.42,16.388077748076993142,1,App móvil,Edineţ,584
+10/3/2024,Snack Container Set,Higiene,10.91,7.495672898965449967,100,Online,Ciparay,585
+10/26/2024,Chocolate Chip Cookie Dough,Bebidas,88.63,51.413935424366115158,33,App móvil,Faruka,586
+10/28/2024,Trendy Bomber Jacket,Bebidas,90.74,50.642468822231838136,28,Online,Bourail,587
+7/8/2025,Grass Fed Beef Patties,Limpieza,23.4,9.40865081169469716,80,Tienda física,Fahraj,588
+5/6/2025,Sooji (Semolina),Limpieza,61.49,27.240920557562800374,8,App móvil,Saguiaran,589
+12/25/2024,Collapsible Pet Dog Bowl,Limpieza,40.39,20.349509564459420366,58,App móvil,Tanūmah,590
+4/8/2025,Savory Oatmeal Cups,Bebidas,16.57,10.606182710734750335,21,Tienda física,Tit Mellil,591
+5/26/2025,Peanut Butter Protein Balls,Bebidas,63.14,48.305705770499528274,73,Online,Žrnovo,592
+10/9/2024,Almond Crunch Granola Bars,Higiene,48.33,31.571803625091375663,33,App móvil,Cachada,593
+8/1/2024,Apple Juice,Limpieza,21.34,11.992225077726515424,36,Tienda física,Gulong,594
+7/6/2025,Herbed Couscous,Alimentación,15.3,9.98515034237670705,4,App móvil,Shanghuang,595
+5/21/2025,Tea Infuser Bottle,Bebidas,45.0,27.1168571258726535,47,Online,Selajambe Satu,596
+10/17/2024,Leek and Potato Soup,Higiene,32.82,24.641838165716177424,29,Tienda física,Vranisht,597
+9/6/2024,BBQ Lentil Chips,Cosmética,70.1,47.54206350048174721,29,Online,Primero de Mayo,598
+5/29/2025,Chic Jumpsuit,Mascotas,41.56,29.36258069635005446,4,Tienda física,Skoczów,599
+12/4/2024,Educational STEM Kit,Cosmética,24.86,15.418657836046771086,82,Online,Potrerillos,600
+1/6/2025,Garlic and Herb Rub,Higiene,71.24,38.668786105893946132,61,Online,Maguyam,601
+4/2/2025,Adjustable Yoga Mat Strap,Mascotas,66.95,51.50944753604354666,87,Online,Keetmanshoop,602
+6/21/2025,Photo Album,Bebidas,41.83,22.850767856132628855,47,Tienda física,Mazkeret Batya,603
+3/21/2025,Frozen Chicken Nuggets,Bebidas,98.36,66.22078242641943432,100,Tienda física,Andarapa,604
+8/3/2024,Pumpkin Seeds,Bebidas,58.48,34.576306894854643776,14,Tienda física,Emar,605
+8/8/2024,Peanut Butter Pretzel Nuggets,Bebidas,49.61,31.168548729760693801,27,Tienda física,Lima,606
+7/27/2024,Electric Meat Grinder,Mascotas,70.85,30.860961210313397995,89,App móvil,Sanguansi,607
+8/13/2024,Maple Oatmeal,Alimentación,68.42,48.2413851267871325,30,App móvil,Lebowakgomo,608
+8/5/2024,Classic Pumps,Higiene,34.06,16.292745811637168276,16,App móvil,Mezhdurechensk,609
+3/26/2025,Almond Quinoa Salad,Limpieza,12.56,7.832919222042392856,60,Online,Yashkul’,610
+1/16/2025,Black Bean & Corn Salad,Limpieza,46.77,31.380919869578804685,32,Tienda física,Concepción Tutuapa,611
+3/14/2025,Multi-Purpose Marine Rope,Mascotas,85.53,68.119954978180386798,56,App móvil,Trollhättan,612
+10/27/2024,Rechargeable Electric Toothbrush,Mascotas,51.75,29.63131930404115155,11,Tienda física,Macau,613
+2/2/2025,Pumpkin Spice Coffee,Limpieza,32.0,18.5782124494679776,90,App móvil,Miaoli,614
+1/31/2025,Art Supplies Organizer,Cosmética,99.1,50.58046366189607964,6,Tienda física,Kawangohari,615
+7/23/2024,Laundry Detergent,Mascotas,53.27,28.70291274991181552,84,App móvil,Tanghua,616
+7/31/2024,Teriyaki Sauce,Bebidas,2.63,1.462545290456457645,56,Tienda física,Bayanbulag,617
+5/25/2025,Apricot Jam,Mascotas,36.32,16.327661255116280368,88,App móvil,Libas,618
+4/15/2025,Sour Cream,Bebidas,53.98,32.750692453647886926,69,App móvil,Upig,619
+9/19/2024,Granulated Sugar,Cosmética,73.72,30.22885227454192634,47,Online,Samran,620
+2/8/2025,Rechargeable Electric Toothbrush,Cosmética,95.5,57.76109399289874705,38,Online,Selat,621
+9/30/2024,Chipotle Black Bean Salad,Bebidas,32.08,23.343212150369116936,100,App móvil,Brisbane,622
+6/15/2025,Cranberry Pecan Granola,Bebidas,25.5,17.7996674601336408,33,Online,Shashūbay,623
+12/3/2024,Classic Slim Fit Shirt,Bebidas,87.89,49.145076168540573584,79,App móvil,L-Iklin,624
+1/4/2025,Honey BBQ Ribs,Bebidas,9.93,4.72658050648537146,100,Online,Pangantocan,625
+6/11/2025,Basil-infused Olive Oil,Limpieza,66.1,34.72962535711407565,17,App móvil,Linköping,626
+10/9/2024,Electric Toothbrush Holder,Higiene,7.64,3.731711905791209484,19,Online,Cabeço,627
+10/12/2024,Quinoa Salad,Cosmética,96.74,39.06480268230764546,7,App móvil,Irahuan,628
+2/23/2025,Baked Falafel Balls,Mascotas,84.96,43.191988481334112992,19,App móvil,Changxingbao,629
+4/9/2025,Window Bird Feeder with Suction Cups,Mascotas,33.34,25.205577765771644666,56,Online,Ganzhou,630
+10/21/2024,Corn Tortillas,Bebidas,65.48,32.503403280825492584,64,Tienda física,Jubaoshan,631
+10/15/2024,Stuffed Peppers with Quinoa,Cosmética,69.45,43.170136419724090905,71,App móvil,Diaowei,632
+3/2/2025,Whisk Set,Mascotas,76.92,48.33422816652748032,96,Tienda física,Tangzhuang,633
+9/5/2024,Scented Candles,Cosmética,3.3,2.39529132869079042,90,App móvil,Ngawen,634
+6/12/2025,Spaghetti and Meatball Dinner Kit,Higiene,85.61,37.691973144459978071,67,Tienda física,Hofors,635
+9/3/2024,Action Camera,Bebidas,94.62,46.447511328300625512,15,Online,Bogoria,636
+3/5/2025,Wooden Kitchen Utensil Set,Higiene,46.71,26.336496870677803545,29,Tienda física,Guishan,637
+11/3/2024,Deluxe First Aid Kit,Bebidas,8.95,5.565206770835438705,87,App móvil,Obryte,638
+4/3/2025,Organic Baby Carrots,Higiene,25.93,16.965410847396387215,52,Online,Chaupimarca,639
+7/8/2025,Multi-Layer Food Steamer,Cosmética,80.19,35.078444021259320517,79,App móvil,Gorodets,640
+5/5/2025,Decorative Wall Tapestry,Higiene,18.95,8.65354347897888497,32,App móvil,Nginjen,641
+3/6/2025,Yoga Wheel,Bebidas,92.29,60.515750384938999711,50,Online,Xinhua,642
+2/3/2025,Multifunctional Baby Bottle Warmer,Mascotas,51.3,36.21930010838443557,83,Online,Quinta,643
+1/30/2025,Outdoor Folding Table,Limpieza,31.73,14.237516636148335258,45,Tienda física,Lokatadho,644
+2/4/2025,Organic Tomato Ketchup,Mascotas,68.75,38.638436314051536875,94,Online,Oullins,645
+2/28/2025,Wall Calendar,Mascotas,72.6,42.3891822159585879,61,Online,Ribamar,646
+1/10/2025,Peach & Mango Salsa,Alimentación,38.12,23.59797932782857942,58,Tienda física,Lille,647
+11/7/2024,Honey Mustard Chicken Breasts,Alimentación,17.5,8.32725584495753725,60,Online,La Ensenada,648
+7/24/2024,Chocolate Fudge Ice Cream,Higiene,49.35,29.79783889803988512,36,App móvil,Liangshuijing,649
+11/28/2024,Bluetooth Tracker,Cosmética,99.16,49.70413174500162552,79,Online,Xijiang,650
+1/12/2025,Couscous,Bebidas,38.79,24.721378599654776394,76,Online,Qitao,651
+11/18/2024,Garden Vegetable Chips,Bebidas,85.06,66.806831322710337052,63,Tienda física,Piedra del Águila,652
+12/2/2024,Adjustable Pet Grooming Table,Higiene,14.37,10.49815722554743035,91,App móvil,Santa Teresa,653
+1/16/2025,Telescope,Bebidas,99.08,57.452378867030758624,56,Tienda física,Sabóia,654
+6/20/2025,Cotton Basic Tank,Mascotas,90.76,62.117424294233920416,43,Online,Berlin,655
+2/21/2025,Slim Wallet,Limpieza,34.68,14.356002425094885072,3,Tienda física,Caeté,656
+2/19/2025,Chickpeas,Higiene,16.43,9.249313997692650102,76,Online,Puno,657
+3/11/2025,Dishwasher Safe Cutting Board,Higiene,77.0,43.3020641854249141,18,Online,Al Khirāb,658
+3/6/2025,Quinoa,Mascotas,92.3,61.37696660373794659,58,Tienda física,Cali,659
+3/20/2025,Dishwasher Safe Cutting Board,Alimentación,21.66,11.279641496905317432,7,Tienda física,Pasinan Barat,660
+1/15/2025,Pet Safety Harness,Mascotas,24.21,13.783543197550295148,79,Tienda física,Slobodskoy,661
+3/19/2025,Black Bean & Corn Salad,Alimentación,35.04,15.149475915334638768,47,Tienda física,Twardogóra,662
+5/30/2025,Classic Pesto Sauce,Alimentación,82.81,59.422976193497651735,42,Tienda física,Hankazi,663
+3/9/2025,Dog Collar,Limpieza,33.33,14.168751695057360478,90,Online,Lyon,664
+7/11/2025,Digital Kitchen Timer,Bebidas,81.74,36.867825634393817816,90,Tienda física,Chat Trakan,665
+2/23/2025,Hiking Gaiters,Limpieza,86.0,48.049481621803976,63,Tienda física,Lyublino,666
+5/19/2025,Plaid Flannel Shirt,Limpieza,94.63,58.137510191542368163,5,Online,Kavásilas,667
+1/21/2025,Ski Goggles,Higiene,40.96,22.50895663812657152,45,Online,Yongdong,668
+7/4/2025,Wireless Smart Plug,Higiene,56.99,34.43169737855091807,64,Online,Las Animas,669
+3/31/2025,Foldable Picnic Table,Bebidas,33.23,15.177170726477782116,87,App móvil,Vaiamonte,670
+8/4/2024,Bamboo Cutting Board Set,Alimentación,57.53,43.061590790156022194,88,App móvil,Watulumbung,671
+3/27/2025,Banana Peanut Butter Smoothie,Mascotas,25.0,14.4754716483040475,41,App móvil,Naftalan,672
+1/19/2025,High-Speed Blender,Mascotas,12.91,8.99893091308243518,25,Tienda física,Cergy-Pontoise,673
+2/22/2025,Fitness Smartwatch,Mascotas,92.52,39.30645238917123744,32,Tienda física,Takāb,674
+10/16/2024,Chocolate Mint Thins,Higiene,2.63,1.603683900450043443,34,Tienda física,Busia,675
+3/22/2025,Bamboo Bathtub Caddy,Alimentación,65.16,44.373929048216998344,16,Online,Navegantes,676
+12/6/2024,Chili Lime Shrimp,Mascotas,73.34,46.14063878773668092,4,App móvil,Piru,677
+9/2/2024,Frozen Berry Blend,Cosmética,80.0,59.204311368988056,20,Online,Xiaoqi,678
+2/13/2025,Wi-Fi Enabled Smart Light Switch,Limpieza,92.93,42.446305478184613742,71,Tienda física,Jabungsisir,679
+5/31/2025,Natural Fruit Snacks,Mascotas,95.04,74.843766276411800448,42,App móvil,Himeji,680
+12/29/2024,Kid's Fruit Snacks,Limpieza,60.8,27.52673302058102688,35,App móvil,Stockholm,681
+9/18/2024,Almond Joy Bars,Bebidas,33.8,16.42760722638347104,2,App móvil,Fangjun,682
+9/3/2024,Personalized Keychain,Limpieza,38.7,23.74299548465182605,70,Online,Tessalit,683
+11/12/2024,Smartphone Gimbal Stabilizer,Limpieza,54.96,39.722476655004295392,90,Tienda física,Wuyo,684
+3/19/2025,Thai Peanut Dressing,Bebidas,90.7,47.44955264273319614,20,App móvil,Shah Alam,685
+10/31/2024,Premium Flashlight,Alimentación,56.8,43.77326034125314712,76,Online,Örgön,686
+1/27/2025,Aeropress Coffee Maker,Cosmética,82.64,57.200669774774183672,48,Online,Pingshanhu,687
+10/1/2024,Folding Pocket Knife,Mascotas,14.48,9.343935636191422592,53,Online,Danderyd,688
+8/26/2024,Bamboo Utensil Holder,Bebidas,7.32,5.4514178477710833,67,Tienda física,General Martín Miguel de Güemes,689
+4/8/2025,Comfortable Jogger Pants,Alimentación,46.14,25.135195343589523674,5,Tienda física,Corani,690
+3/28/2025,Organic Tomato Ketchup,Higiene,37.42,22.785743266582397208,98,Online,Bilyayivka,691
+3/8/2025,Smartphone Tripod,Mascotas,70.16,53.718961760626990984,29,Online,Zhoushizhuang,692
+10/30/2024,Spinach Artichoke Dip,Higiene,47.48,22.132365634490268488,72,Tienda física,Taihe,693
+10/17/2024,Chicken Breasts,Mascotas,77.91,45.93759772518025179,36,Tienda física,Sanlanbahai,694
+10/11/2024,Multi-Functional Rice Cooker,Higiene,37.94,25.262574098867572012,74,Online,Sośnicowice,695
+8/8/2024,Chocolate Fudge Ice Cream,Alimentación,32.49,15.968826093383029269,82,Tienda física,Rodotópi,696
+11/4/2024,Chiffon Blouse,Alimentación,41.14,31.51609786362421494,94,App móvil,Lazeshchyna,697
+10/13/2024,Zucchini,Cosmética,49.15,33.07200078897232836,72,Online,Zhongchuan,698
+8/7/2024,Fitness Tracker,Limpieza,73.19,55.974433909099699799,93,Tienda física,Havířov,699
+12/6/2024,LED Christmas Lights,Bebidas,28.2,12.42492193045072026,56,Online,Pulau Pinang,700
+9/25/2024,Frozen Edamame,Alimentación,29.55,15.120541113671336235,10,Tienda física,Jeleuk,701
+5/6/2025,Casual Long Cardigan,Higiene,69.46,42.223812455544798872,55,App móvil,Le Teil,702
+10/25/2024,Cheesy Cauliflower Bake,Cosmética,54.97,38.810949773846484605,7,Tienda física,Buenos Aires,703
+4/27/2025,Pasta Maker,Higiene,74.09,47.28870031011259641,53,Tienda física,Cacoal,704
+8/20/2024,Vegan Alfredo Sauce,Mascotas,78.75,36.3804042945523635,26,App móvil,Lumatil,705
+11/24/2024,Wireless Mouse,Mascotas,22.1,14.44940424918828058,82,App móvil,Yantal’,706
+3/20/2025,Vegetarian Stir Fry Sauce,Limpieza,76.85,31.83205693996290043,8,App móvil,Rio,707
+8/31/2024,Electric Heat Pad,Cosmética,18.83,10.039037061582518689,20,Online,Echarate,708
+1/13/2025,Mediterranean Olives,Alimentación,51.16,37.687779242053938616,30,Online,Białobrzegi,709
+9/28/2024,Coconut Oil,Higiene,52.87,28.846401637244111571,12,Online,Kishorganj,710
+6/9/2025,Watercolor Paint Set,Alimentación,5.22,2.565841751896347612,2,Online,Songshu,711
+3/15/2025,Cranberry Orange Juice,Cosmética,15.05,9.55393429271445871,74,Online,Mujur Satu,712
+8/15/2024,Dried Mango Slices,Higiene,74.1,38.65258199085633324,19,App móvil,Jizhou,713
+12/9/2024,Drone,Limpieza,27.76,15.493790950116646752,86,App móvil,Niutian,714
+8/17/2024,Nutty Granola Clusters,Cosmética,43.56,30.78031829432636142,53,App móvil,Santana de Parnaíba,715
+1/29/2025,Organic Lentil Soup,Mascotas,28.86,15.767373567075447642,80,Tienda física,Arnage,716
+5/20/2025,Mediterranean Flatbread,Bebidas,10.12,7.811930763132325896,96,Tienda física,Abakan,717
+10/31/2024,Rechargeable Laptop Battery Pack,Bebidas,7.3,3.5504780172551524,35,Online,Lemery,718
+2/25/2025,Tabletop Fire Pit,Cosmética,88.85,54.54761124086680876,88,Tienda física,Timbó,719
+5/28/2025,Veggie Burger Patties,Bebidas,81.71,55.320486574057381289,31,App móvil,Spasskoye,720
+5/29/2025,Fitness Balance Ball,Limpieza,80.91,47.018276399371209399,91,App móvil,Lincheng,721
+9/17/2024,Electric Blanket,Mascotas,95.11,71.044981156173486131,76,App móvil,Zhuangshi,722
+2/2/2025,Teriyaki Salmon Fillets,Limpieza,97.66,46.343378907080166598,4,Tienda física,Camgyai,723
+1/14/2025,Chipotle Black Bean Salad,Cosmética,3.62,1.680409925647417844,25,Online,Saint Ann’s Bay,724
+9/15/2024,Pet Training Pads,Cosmética,23.0,15.3471857857539804,54,Online,Wuyang,725
+2/16/2025,Dog Walking Waist Pack,Higiene,37.63,16.141095915721711929,88,Tienda física,Ushumun,726
+7/24/2024,Rolling Cooler,Cosmética,31.88,15.884316715067403068,67,Online,Machado,727
+5/15/2025,Smart LED Light Strip,Bebidas,90.77,43.060153006491055377,21,Tienda física,Doro Oo,728
+5/31/2025,Herbal Tea Set,Cosmética,3.66,1.561964797261280532,21,Tienda física,Dziemiany,729
+11/12/2024,Buffalo Chicken Wraps,Cosmética,53.71,42.219608883569624664,52,Online,Mirões,730
+8/29/2024,Garlic and Herb Rub,Higiene,31.95,14.836694970083755905,16,Online,Jianguang,731
+5/11/2025,Rainbow Veggie Chips,Cosmética,33.9,25.1725639326633528,80,Online,Az Ziyārah,732
+2/11/2025,Board Game Storage,Mascotas,90.96,64.758371108452704,74,App móvil,Magdalena,733
+3/20/2025,Cucumber,Alimentación,77.2,35.3049509883882688,55,App móvil,Isfara,734
+12/30/2024,Asian Stir-Fry Kit,Mascotas,67.69,33.563361864769256891,83,Tienda física,Kamen,735
+11/26/2024,Peanut Butter Protein Balls,Mascotas,54.3,41.10216229948345704,41,Online,Osório,736
+7/24/2024,Collapsible Folding Chair,Higiene,97.28,47.980412628489560064,1,Online,Orzu,737
+6/28/2025,Portable Projector,Alimentación,70.31,49.100165051317657036,95,Tienda física,Tomigusuku,738
+9/8/2024,Creamy Coleslaw Mix,Bebidas,57.35,44.746297554277947095,98,App móvil,Ḩājī Khēl,739
+5/5/2025,Mini Hand Gesture Drone,Higiene,86.59,62.357488237262588566,32,Tienda física,Dabagou,740
+11/30/2024,Maple Glazed Carrots,Mascotas,84.69,52.601981783604327621,8,App móvil,Colonia Minga Porá,741
+12/1/2024,Savory Italian Herbs,Bebidas,55.81,29.850772240519396491,63,App móvil,Gromnik,742
+3/9/2025,Caramel Apple Chips,Bebidas,57.2,33.9653154258492646,38,App móvil,Tongjiaxi,743
+9/3/2024,Lentil Soup (canned),Mascotas,57.89,41.710143880709678318,14,App móvil,Shuakhevi,744
+10/15/2024,Toy Building Set,Bebidas,27.3,18.2480278042456212,54,App móvil,Clarence-Rockland,745
+9/9/2024,Foldable Yoga Mat Carry Bag,Alimentación,63.8,30.8892803943053077,59,Tienda física,Azogues,746
+6/15/2025,Poppy Seed Dressing,Mascotas,48.16,26.718128060366343776,21,Tienda física,Sangkulirang,747
+4/7/2025,Honey Mustard Chicken Breasts,Higiene,85.34,59.401358856512399,70,Online,Alchevs’k,748
+11/29/2024,Paint By Numbers Kit,Mascotas,50.39,40.055918577073553678,76,Tienda física,Ozherel’ye,749
+3/21/2025,Glass Water Bottle,Alimentación,86.82,58.376779971299090646,36,Online,Sutton,750
+9/30/2024,Buffalo Sauce,Cosmética,90.89,65.455436544966504369,30,App móvil,Bafoussam,751
+9/11/2024,Garam Masala Spice Blend,Limpieza,22.35,13.91957401019814942,32,App móvil,Lage,752
+2/24/2025,Maple Syrup,Bebidas,99.51,41.224157389592989674,36,App móvil,Boulaouane,753
+7/6/2025,Car Sunshade,Mascotas,48.32,34.482145039747454976,19,Online,Łyse,754
+12/15/2024,Cordless Electric Screwdriver,Higiene,87.05,41.365083693950728425,58,Tienda física,Shimada,755
+6/16/2025,Pumpkin Spice Muffins,Alimentación,54.21,23.919864543531309756,97,Online,Lý Sơn,756
+1/14/2025,Digital Drawing Tablet,Cosmética,59.37,34.111136323432426038,78,Online,Siaya,757
+2/1/2025,Eco-Friendly Beeswax Wraps,Bebidas,84.28,36.259155959801082784,5,App móvil,Nzega,758
+7/26/2024,Mini Air Purifier,Limpieza,9.25,6.4433345684188506,29,Online,Kónitsa,759
+10/20/2024,Coconut Macaroons,Cosmética,53.91,28.063866037996214883,21,App móvil,Yucheng,760
+10/9/2024,LED Desk Lamp with USB Charging,Limpieza,36.2,26.51191663400057156,66,App móvil,Zhigong,761
+2/9/2025,Blue Denim Jeans,Bebidas,63.96,31.366605399269732124,99,Tienda física,Nantes,762
+5/6/2025,Raspberry Limeade,Bebidas,93.62,67.507363847192546312,46,App móvil,Zhujiatai,763
+3/23/2025,Fruit and Nut Medley,Mascotas,74.9,31.75921989608819892,76,Tienda física,Kościerzyna,764
+11/15/2024,Set of Decorative Storage Bins,Alimentación,40.89,29.508651035184049674,38,Tienda física,Huaguoshan,765
+11/11/2024,Honey Almond Granola Bars,Limpieza,23.3,9.55187816631957229,13,Tienda física,Himeville,766
+5/20/2025,Roasted Garlic Pasta Sauce,Mascotas,42.93,26.872497844906351473,89,Tienda física,Barcelona,767
+10/12/2024,Electric Food Steamer,Cosmética,30.12,21.168826779308815056,6,Online,Alkmaar,768
+3/4/2025,Electric Hot Pot,Alimentación,16.16,11.041060053220046208,66,Tienda física,Dingtou,769
+5/1/2025,Curried Lentil Salad,Mascotas,15.42,7.74466553006420898,66,Tienda física,Orichi,770
+1/2/2025,Pet Bed,Alimentación,90.44,50.339348525664989532,9,App móvil,Dallas,771
+11/6/2024,Fitness Tracker Watch,Mascotas,11.3,7.91808473963222953,83,App móvil,Luohuang,772
+1/13/2025,Yoga Wheel,Higiene,44.99,21.853416853520052702,46,Online,Yuncheng,773
+5/4/2025,Cooking Utensil Set,Cosmética,45.4,26.48888289533636228,59,Online,Kotabunan,774
+8/20/2024,Pet Carrier Backpack,Mascotas,29.05,11.685701522482843905,2,App móvil,Yanghuxiang,775
+3/27/2025,Maple Pecan Oatmeal Cookies,Cosmética,8.02,4.602589194602645022,6,Online,Krapivna,776
+10/3/2024,Chili Beans (canned),Bebidas,80.49,52.041907281787289463,99,App móvil,Hexi,777
+7/29/2024,Spaghetti Sauce,Alimentación,26.46,17.390593195383594312,21,App móvil,Beizhuang,778
+12/30/2024,Electric Wine Opener,Alimentación,76.73,34.68608194398474748,43,App móvil,Madette,779
+8/5/2024,Quality Chef Apron,Cosmética,40.19,16.345990480195447646,40,Tienda física,Trà Ôn,780
+4/20/2025,Sweet Potato and Chickpea Bowl,Mascotas,25.4,11.8828979622799499,46,App móvil,Māsāl,781
+1/13/2025,Mayonnaise,Alimentación,36.65,16.95178861363517658,77,Tienda física,Oslo,782
+7/5/2025,Sriracha Sauce,Limpieza,59.35,40.929444119050163875,100,Tienda física,Duyên Hải,783
+3/8/2025,Tea Infuser Bottle,Mascotas,66.18,32.71972859706959589,29,Tienda física,Pinrang,784
+8/1/2024,Rice Pudding,Mascotas,23.71,15.31493664014591132,14,Online,Dzhubga,785
+1/12/2025,Ceramic Planter Set,Bebidas,86.22,64.909510314898806846,62,Tienda física,Lizhai,786
+6/29/2025,Smartphone Projector,Mascotas,26.72,13.668377935246686336,58,App móvil,Obubra,787
+1/7/2025,Chili Lime Corn Chips,Higiene,68.39,48.376187012013874216,76,App móvil,Tall Salḩab,788
+12/25/2024,Memory Foam Mattress Pad,Alimentación,29.22,19.380092189456173098,81,App móvil,Dahu Satu,789
+2/16/2025,Raspberry Lemonade Mix,Alimentación,55.93,40.806883432579160771,19,App móvil,Energeticheskiy,790
+9/18/2024,Portable Bluetooth Keyboard,Limpieza,9.7,6.2904634448325176,66,App móvil,Shangfang,791
+11/10/2024,Spicy Thai Chili Sauce,Bebidas,63.28,48.68136598768036804,82,Online,Santa Cruz das Palmeiras,792
+3/28/2025,Spicy Thai Coconut Soup,Cosmética,64.79,47.558753786435118326,54,Online,Sasebo,793
+10/6/2024,Sweet Potatoes (organic),Alimentación,11.67,6.143653252712404074,26,Online,Norrahammar,794
+12/8/2024,Pet Safety Harness,Bebidas,36.84,21.532381159966481784,52,Tienda física,Sumurwaru,795
+7/26/2024,Buffalo Chicken Dip,Mascotas,70.45,42.75529423279841311,33,App móvil,Jaraguá do Sul,796
+9/1/2024,LED Christmas Lights,Higiene,14.05,6.32404728642918363,77,App móvil,Leigao,797
+6/8/2025,Handmade Wooden Utensil Set,Limpieza,85.48,62.259513603602719228,6,Online,Jiuxian,798
+12/30/2024,Honey Sesame Chicken Mix,Higiene,24.48,14.561696359977802848,15,Online,Philadelphia,799
+5/26/2025,Sun Protection Clothing,Higiene,46.7,27.39371312748029405,50,Tienda física,Kranuan,800
+7/28/2024,Spicy Snack Mix,Mascotas,79.2,52.26449828615726832,96,Online,Mérignac,801
+11/30/2024,Coconut Chia Seed Pudding,Bebidas,53.9,35.5996093131452543,2,Online,Doropeti,802
+8/30/2024,Artisan Cornbread Mix,Limpieza,97.82,55.501288881563495536,41,App móvil,Dārayyā,803
+4/15/2025,Spicy Salsa Verde,Alimentación,61.81,28.157094529475555399,32,Tienda física,Bardaï,804
+4/18/2025,Ultraviolet Phone Sanitizer,Bebidas,4.44,2.70138523817805666,87,Online,Debrecen,805
+5/16/2025,Cinnamon Ice Cream,Bebidas,24.2,14.6557290352508365,97,Online,Cabo de Vila,806
+6/10/2025,Portable Hammock Swing,Bebidas,24.55,11.33329898863848163,18,Tienda física,Zhongmen,807
+3/16/2025,Banana Peanut Butter Smoothie,Higiene,49.88,38.04351971584129686,76,Tienda física,Hudson Bay,808
+2/7/2025,Woven Storage Baskets,Cosmética,91.36,55.147119955159645696,82,Tienda física,Caleta Olivia,809
+1/10/2025,Cinnamon Sugar Tortilla Chips,Cosmética,76.38,37.950308908919689896,74,App móvil,Laironja,810
+6/18/2025,Gardening Gloves,Limpieza,43.26,30.897637110068175132,74,Online,Kiikala,811
+10/14/2024,Sports Water Bottle with Infuser,Mascotas,64.14,35.589256758647821068,59,Online,Longuita,812
+5/17/2025,Wireless HDMI Transmitter,Alimentación,37.26,24.89043246439351536,15,Tienda física,Barra do Garças,813
+7/4/2025,Creamy Garlic Dressing,Cosmética,71.22,30.364575904894112604,91,Online,Daping,814
+4/7/2025,Peanut Butter,Bebidas,71.6,51.98687829080187616,89,Online,Kosikha,815
+8/13/2024,Artisan Pickles,Mascotas,62.14,24.941357051908878932,70,Tienda física,Bartolomé Masó,816
+2/5/2025,Customizable Name Plate,Higiene,6.52,3.831604629405447692,62,Online,Cercal,817
+9/21/2024,Vegetarian Sausage Links,Alimentación,4.17,3.077955791226349587,67,App móvil,Danirai,818
+10/4/2024,Collapsible Camping Cup,Bebidas,38.42,25.400661587335539258,28,Tienda física,La Hacienda,819
+5/1/2025,Travel Eye Mask with Ear Plugs,Alimentación,95.09,44.750012683221701993,27,Tienda física,Ipoh,820
+8/8/2024,Organic Spinach,Higiene,27.97,20.078000274236198771,81,Tienda física,Susuman,821
+2/15/2025,Puzzle 3D Model Kit,Mascotas,62.83,33.94592972014929179,62,Online,Alarobia,822
+10/1/2024,Savory Italian Herbs,Higiene,78.14,39.450815727067150784,24,Online,Yanwan,823
+2/17/2025,Organic Chia Seeds,Mascotas,55.36,33.505187659406348096,2,Tienda física,Binangun,824
+2/7/2025,Tomato Sauce,Higiene,86.63,61.690593626934371303,84,Online,Kalinovo,825
+6/4/2025,Memory Card,Limpieza,29.26,21.773707324844927606,88,Online,Karagay,826
+6/16/2025,Pet Bed with Removable Cover,Limpieza,19.28,13.61154784035562408,32,App móvil,Ambohitseheno,827
+4/11/2025,Stuffed Peppers with Quinoa,Mascotas,6.39,2.932463324320437483,49,Online,Bykhaw,828
+10/4/2024,Truffle Parmesan Fries,Higiene,69.45,36.064156263477281745,68,Tienda física,Vlkoš,829
+3/8/2025,Eco-Friendly Notepad,Cosmética,31.28,19.471431597075984328,9,Tienda física,Sekongkang Bawah,830
+9/10/2024,Organic Cereal Bars,Higiene,71.22,56.294519589454695174,90,Online,Zürich,831
+3/7/2025,Organic Italian Seasoning,Higiene,61.12,42.39781797161694832,80,Tienda física,Diaofeng,832
+12/14/2024,Cat Tree with Scratching Posts,Higiene,33.51,19.595320770467811402,59,Online,Baharly,833
+8/22/2024,Ricotta Cheese,Cosmética,87.8,56.49104204641799622,71,Tienda física,Cuamba,834
+4/4/2025,Set of Decorative Storage Bins,Bebidas,62.36,45.136539339192406968,61,Tienda física,Vicente Guerrero,835
+5/24/2025,Ceramic Knife Set,Alimentación,59.43,39.858902647367991705,5,Online,Lũng Hồ,836
+2/18/2025,Wall Planner,Alimentación,65.78,34.670762925493951542,6,Tienda física,Íasmos,837
+12/19/2024,Portable Pet Stroller,Limpieza,31.49,13.977039642697951882,29,Tienda física,Longshan,838
+12/11/2024,Miso Soup Starter,Cosmética,62.43,44.167621783790640075,35,Tienda física,Pulaukijang,839
+3/16/2025,Honey Garlic Chicken,Mascotas,2.92,2.066787522578869096,64,Tienda física,Chrást,840
+3/4/2025,Basil Lemonade,Alimentación,52.12,31.622503717802865032,95,Online,Unidad,841
+10/21/2024,High-Pressure Handheld Shower Head,Limpieza,34.4,23.40112195045072672,23,App móvil,Pabuaran,842
+6/1/2025,Sea Salt Tortilla Chips,Bebidas,29.74,23.604227319733886904,88,App móvil,Vicuña Mackenna,843
+11/8/2024,Car Phone Mount,Limpieza,9.49,5.297903819945297938,12,Tienda física,Oslo,844
+6/15/2025,Chickpea Snack Mix,Bebidas,45.0,19.729281362595246,80,App móvil,Suphan Buri,845
+9/10/2024,LED Desk Lamp with USB Charging Port,Mascotas,1.21,0.960996665477662209,89,Online,Donggang,846
+7/25/2024,Folding Pocket Knife,Cosmética,58.87,28.218082697109126164,12,Tienda física,Huangliu,847
+1/3/2025,Pesto Genovese,Mascotas,30.14,16.877127128904875734,66,Online,Kizema,848
+2/22/2025,Coconut Oil,Alimentación,37.31,23.900988241436669181,84,Tienda física,Oripää,849
+1/17/2025,Laptop Backpack,Bebidas,38.69,23.885025355710141481,4,Online,San Antonio,850
+10/20/2024,Tandoori Chicken Skewers,Limpieza,62.09,34.71113392027762761,69,Tienda física,São Sebastião do Caí,851
+4/5/2025,Smartphone Hand Grip,Higiene,78.68,41.421514944743588144,17,Online,Lewo,852
+9/20/2024,Feta Cheese,Mascotas,35.5,14.70837755821463315,21,Tienda física,Tochio-honchō,853
+2/26/2025,Teriyaki Salmon Fillets,Higiene,65.02,27.810919426122143786,54,Tienda física,Biltine,854
+9/23/2024,Portable Electric Fan,Alimentación,46.88,34.151142782029161056,50,Online,Patos,855
+2/21/2025,Zesty Garlic Hummus,Limpieza,61.72,40.349810409837341988,82,App móvil,Fujinomiya,856
+9/14/2024,Pet Water Fountain with Filtration,Higiene,77.43,48.151286048855206281,40,App móvil,Cambrai,857
+6/11/2025,Dark Chocolate Covered Pretzels,Cosmética,53.25,33.260002030872726075,49,App móvil,Opatovice nad Labem,858
+11/22/2024,Smashed Avocado with Lime,Bebidas,64.87,49.933702269748031969,48,Tienda física,Le Perreux-sur-Marne,859
+9/4/2024,Floral Wrap Top,Cosmética,3.3,2.17172281021462932,96,Tienda física,Säffle,860
+6/14/2025,Tomato Basil Soup,Limpieza,58.33,32.600399422104227234,64,Tienda física,Sutton,861
+1/22/2025,Grass Fed Beef Patties,Mascotas,46.81,28.973706936558068671,33,App móvil,Dundbürd,862
+2/14/2025,Inflatable Party Cooler,Alimentación,24.28,14.222796870712371144,60,App móvil,Minnedosa,863
+1/20/2025,USB Flash Drive,Cosmética,62.26,28.661951942125525056,56,Tienda física,Moosomin,864
+6/12/2025,Low-Fat Cottage Cheese,Bebidas,72.26,49.331665027474551786,17,Online,Pakham,865
+4/27/2025,Maple Breakfast Sausage,Cosmética,10.91,7.16151547639012353,27,App móvil,Sabaneta,866
+10/17/2024,Electric Bike,Bebidas,4.64,2.70503166777959776,41,Tienda física,Limoges,867
+5/14/2025,Sweet Chili Dipping Sauce,Limpieza,89.26,38.957961393832651526,54,Online,Seredka,868
+11/19/2024,Cabbage,Limpieza,41.16,21.405363453356508696,40,Tienda física,San Francisco,869
+2/4/2025,Crispy Kale Chips,Cosmética,32.06,24.113649851436827472,54,Tienda física,Toliara,870
+10/15/2024,Incense Holder,Cosmética,52.0,30.9527380204821896,81,Tienda física,Altavista,871
+2/6/2025,Heated Throw Blanket,Higiene,43.22,24.178730759417192138,52,App móvil,Gonzalo,872
+9/10/2024,Garden Hose,Bebidas,6.15,2.621216445496528395,42,App móvil,Ramotswa,873
+6/2/2025,Almond Flour Pancake Mix,Higiene,14.64,10.816020016815775536,17,Tienda física,Goiatuba,874
+8/23/2024,Quinoa Salad,Limpieza,77.16,42.90733633369822476,9,App móvil,Negreiros,875
+11/28/2024,Cheddar Cheese Crackers,Limpieza,11.09,5.360637692219973629,55,App móvil,La Estancia,876
+9/28/2024,Rain Jacket,Cosmética,48.48,21.364180966531632672,82,Online,Jiucheng,877
+2/12/2025,Jigsaw Puzzle,Limpieza,62.32,39.159992358771383648,76,Online,Kołczygłowy,878
+2/22/2025,Fleece Throw Blanket,Limpieza,34.59,14.505921846465540513,100,App móvil,Mjamaoué,879
+9/13/2024,Whole Wheat Bread,Higiene,27.12,16.326652201628023152,17,Online,Sao Hai,880
+12/12/2024,Fitness Tracker with Heart Rate Monitor,Mascotas,7.09,3.839106474480515818,16,Online,Kauswagan,881
+7/3/2025,Cauliflower Gnocchi,Alimentación,95.74,55.346042291322386218,2,App móvil,Savyntsi,882
+5/1/2025,Banana Nut Muffins,Higiene,38.06,17.126302907894574416,96,Tienda física,Lille,883
+2/12/2025,Travel Luggage Scale,Alimentación,96.68,62.124385583686541892,74,App móvil,Ouro Sogui,884
+5/7/2025,Ginger Turmeric Tea,Mascotas,53.84,23.694387471427870088,33,Online,Kungsbacka,885
+6/7/2025,Low-Fat Yogurt,Alimentación,12.99,6.443224495131452556,48,App móvil,Geoktschai,886
+9/14/2024,Chili Beans in Sauce,Alimentación,14.7,10.07348754826888383,46,App móvil,La Esperanza,887
+11/23/2024,Kids' Building Blocks,Alimentación,70.12,36.41125928082455136,77,App móvil,Dadiharja,888
+7/17/2025,Over-The-Door Shoe Organizer,Cosmética,43.14,17.334831078652173192,46,App móvil,El Hamma,889
+10/21/2024,Chiffon Blouse,Higiene,86.13,66.978955206043846416,27,Online,Cangqian,890
+3/5/2025,Electric Air Pump,Higiene,11.63,6.642612153828574148,47,Tienda física,La Trinidad,891
+7/19/2025,Classic White T-Shirt,Limpieza,98.43,70.553004095714457516,20,Tienda física,Guanzhou,892
+10/19/2024,Camping Chair with Cooler,Cosmética,94.39,57.466493335604829017,16,Online,Ayía Triás,893
+3/5/2025,Organic Granola Cereal,Mascotas,9.02,4.158357657794387872,65,App móvil,Mandala,894
+1/9/2025,Wooden Blocks,Bebidas,20.56,16.355230948367234776,4,Tienda física,Oemofa,895
+1/27/2025,Coconut Rice,Alimentación,78.84,41.456566196671693536,25,Online,Cimuncang,896
+7/28/2024,Plaid Flannel Shirt,Alimentación,62.43,39.86142361859416416,40,Online,Shenavan,897
+8/25/2024,Nutty Trail Mix,Higiene,68.4,30.67059041921505492,22,Online,Kabare,898
+3/9/2025,Electronic Drum Kit,Limpieza,67.89,44.550984738892097913,85,Tienda física,Hernani,899
+10/4/2024,Pepperoni Pizza Rolls,Alimentación,71.31,51.742353057635243985,71,Online,Annecy,900
+11/21/2024,Electric Knife,Cosmética,14.19,6.999712893957139818,100,Tienda física,Nanterre,901
+7/13/2025,Sliced Olives,Cosmética,57.78,40.966912523907113886,4,Tienda física,Buenavista,902
+2/14/2025,Feta Cheese Crumbles,Higiene,97.03,71.371120463776197228,46,Online,São Vicente,903
+9/11/2024,Pet Water Fountain,Mascotas,56.21,25.941384007165614988,14,Tienda física,Kibondo,904
+8/10/2024,Basil Lemonade,Limpieza,49.95,22.060399737077618085,11,Online,Březová nad Svitavou,905
+6/13/2025,Chili Beans in Sauce,Alimentación,41.88,24.102377167978178832,39,App móvil,Örebro,906
+12/20/2024,Pepper Jack Cheese Slices,Alimentación,58.16,40.079605107687835344,4,Online,Kardítsa,907
+12/30/2024,Natural Peanut Butter,Alimentación,55.84,36.200768861551685648,52,Online,Pringsewu,908
+10/18/2024,Classic Chicken Noodle Soup,Mascotas,85.32,54.9223304916803742,69,Tienda física,Petrovskaya,909
+8/24/2024,Summer Tank Dress,Higiene,27.78,16.307013888136041078,50,Online,San Jerónimo,910
+2/22/2025,Herbed Mushroom Risotto,Mascotas,22.63,9.57730666337205203,60,Online,Kinsale,911
+9/21/2024,Heat-Resistant Silicone Mat,Higiene,63.76,33.309716496843849352,51,App móvil,Tranås,912
+5/19/2025,Portable Air Compressor,Bebidas,9.84,6.415971982751944512,74,Tienda física,Fort Lauderdale,913
+12/10/2024,Scent Diffuser Oil,Bebidas,81.1,38.26429583199039545,37,App móvil,Coratatal,914
+10/10/2024,Cotton Quilted Throw Blanket,Mascotas,41.5,27.14058669661711415,70,Online,Kamo,915
+7/31/2024,Chocolate Almond Milk,Cosmética,18.33,12.161862212972459208,24,App móvil,Rimbo,916
+7/12/2025,Magnetic Spice Jars,Higiene,52.69,32.545121000223460618,91,App móvil,Dziewin,917
+6/23/2025,Shoe Organizer,Mascotas,2.59,1.949168161274016207,65,Tienda física,Yefremov,918
+12/18/2024,Lightweight Rain Jacket,Higiene,99.82,65.101622071487248268,38,App móvil,Nzega,919
+9/21/2024,Smartphone Gimbal Stabilizer,Limpieza,55.09,23.093401575839815185,66,App móvil,Oklahoma City,920
+11/17/2024,Wireless Security System,Higiene,46.7,19.36437845620832715,86,Online,Kax,921
+1/23/2025,Maple Cinnamon Granola Bars,Cosmética,31.26,19.921657191180543558,30,Online,Wien,922
+6/2/2025,Pet Grooming Kit,Mascotas,25.03,13.993080907276580451,87,Tienda física,Gejiu,923
+10/15/2024,Mango Chunks,Higiene,70.07,36.656802386932815087,70,Online,Peresvet,924
+11/13/2024,Tomato Paste,Cosmética,81.44,46.735633118368640736,64,App móvil,Baltimore,925
+2/12/2025,Organic Tomato Soup,Alimentación,70.98,30.812502250678911672,27,App móvil,Palilula,926
+4/19/2025,Safety Goggles,Limpieza,93.69,74.38169261215453806,16,Online,Várzea,927
+5/15/2025,Noise Cancelling Ear Muffs,Mascotas,32.0,24.1432472539989888,40,App móvil,Şanā’,928
+1/8/2025,Spinach Feta Wraps,Alimentación,69.68,53.427812578283390416,17,Online,Santa Rosa,929
+3/19/2025,Vegetable Pizza Rolls,Higiene,45.31,22.186453009471565828,79,Tienda física,Borova,930
+10/11/2024,Electric Fondue Pot,Mascotas,26.36,18.637370616915748032,75,Online,Shetan,931
+5/18/2025,Feta Cheese Crumbles,Mascotas,76.22,33.599835830563997398,4,Tienda física,Ad Dīs ash Sharqīyah,932
+12/1/2024,Savory Quinoa Pudding,Higiene,67.59,27.708901620315456825,83,App móvil,Mayo Belwa,933
+2/21/2025,Garden Vegetable Soup,Bebidas,49.11,29.817949663801187004,61,App móvil,Candelária,934
+6/2/2025,Compact Hair Dryer,Limpieza,65.61,33.102901926015618375,66,App móvil,Lyon,935
+7/23/2024,Frozen Edamame,Bebidas,47.79,36.325726989870034746,78,Online,Santo Rosario,936
+8/21/2024,Aged White Cheddar Popcorn,Mascotas,82.67,56.114702874088574121,16,Tienda física,Shahrak,937
+1/2/2025,Mango Chunks,Higiene,53.63,32.898300300828378845,89,App móvil,Qiuchuan,938
+2/2/2025,Fashionable Belt Bag,Alimentación,32.89,13.867166498910751598,100,Tienda física,Surgut,939
+8/16/2024,Pressure Washer Accessories Kit,Limpieza,55.76,29.919532938007603992,11,App móvil,Shuiting,940
+5/14/2025,Almond Butter Cups,Mascotas,10.23,6.079040680109059047,44,Tienda física,Huaxijie,941
+5/23/2025,Nutritional Yeast,Cosmética,1.85,1.151042943922068315,36,Online,Colorado Springs,942
+3/21/2025,Low-Fat Cottage Cheese,Higiene,68.66,53.426964534301877356,78,App móvil,Águas Formosas,943
+7/22/2024,Pet Activity Tracker,Cosmética,83.68,45.035945934437107984,37,Tienda física,Verbivka,944
+9/14/2024,Carrot Ginger Soup,Alimentación,2.56,1.850419754170621696,17,Tienda física,Yanbei,945
+4/8/2025,Adjustable Height Standing Desk Converter,Limpieza,98.49,42.448375033469802873,47,App móvil,Prochowice,946
+9/1/2024,Frozen Mixed Vegetables,Cosmética,67.32,47.659566020568924708,14,Tienda física,Ajaccio,947
+1/22/2025,Raspberry Lemonade Mix,Higiene,97.61,64.879605474841624533,36,Tienda física,Perth,948
+9/12/2024,Adjustable Pedicure Footrest,Alimentación,68.24,54.524227235888512944,99,Tienda física,Patambuco,949
+5/18/2025,Magnetic Whiteboard,Cosmética,12.22,7.889721716219115968,27,Tienda física,Esmeraldas,950
+11/22/2024,Multi-Layer Food Steamer,Limpieza,10.05,4.75884283881377199,33,Tienda física,Pantaihambawang,951
+2/5/2025,Spicy Chicken Wings,Bebidas,92.27,40.353673671553602838,44,Tienda física,Heishui,952
+12/9/2024,Eco-Friendly Yoga Mat,Mascotas,83.88,62.530952884342908084,42,App móvil,Independencia,953
+1/13/2025,Digital Food Scale,Bebidas,10.63,7.895865409612294391,37,Tienda física,Ocaña,954
+10/6/2024,Wall-Mounted Bookshelf,Bebidas,9.61,5.098648454057828008,72,Online,Varkaus,955
+6/13/2025,Water Bottle,Cosmética,7.53,3.66649708742330934,36,Online,Boden,956
+5/19/2025,Organic Ramen Noodles,Higiene,31.1,23.77214856448288626,9,Tienda física,Ilongero,957
+6/19/2025,Scented Candles,Bebidas,73.4,31.61832664796903542,7,Tienda física,Thepharak,958
+5/15/2025,Chiffon Blouse,Alimentación,8.54,6.378658403042947504,1,App móvil,pamas,959
+5/22/2025,Eco-Friendly Disposable Plates,Limpieza,55.69,40.612518214756656648,46,App móvil,Estreito,960
+11/24/2024,Children's Educational Puzzle,Higiene,57.58,45.801770226321323268,41,Online,Chão,961
+1/3/2025,Cheesy Broccoli Soup Mix,Mascotas,84.96,49.687483267204676496,5,App móvil,Kadubincarung,962
+11/4/2024,Trendy Bomber Jacket,Alimentación,62.56,27.924021088642184752,85,Tienda física,Banana Village,963
+8/19/2024,Puffer Winter Coat,Cosmética,41.89,29.568932586449634145,76,Online,Zherdevka,964
+9/9/2024,Crispy Chickpeas,Bebidas,11.99,8.403055300376888283,86,Online,Campinas,965
+12/30/2024,Dog Walking Waist Pack,Bebidas,8.3,3.35771303977739114,92,Online,Panjir,966
+9/8/2024,Kids' Art Easel,Cosmética,82.02,61.498316962203352482,71,Tienda física,Skanör,967
+4/11/2025,Tea Infuser,Limpieza,65.22,34.452840447229238478,12,Online,Salavat,968
+8/20/2024,Smart Light Bulbs,Higiene,93.39,57.809919615002726952,42,Online,Néa Flogitá,969
+2/7/2025,Sriracha Sauce,Bebidas,83.18,38.71261208387485754,14,Tienda física,Harper,970
+9/24/2024,Tortilla Chips,Bebidas,41.77,19.787238190109703278,16,App móvil,San Marcos,971
+5/2/2025,Sriracha Hot Chili Sauce,Higiene,8.58,4.933979890223885358,84,Online,Ernestinovo,972
+5/21/2025,Home Delivery Food Journal,Alimentación,23.1,12.30185664827101752,82,App móvil,Obertyn,973
+10/1/2024,Pasta Primavera,Alimentación,39.22,29.545314574078872622,16,Online,Shangyuan,974
+11/17/2024,Bicycle Repair Kit,Higiene,89.28,37.20366743101919856,30,Tienda física,Bayanbulag,975
+1/9/2025,Magnet Travel Fridge Magnets,Bebidas,21.37,11.316777821252508355,53,Tienda física,Mianay,976
+8/7/2024,Creamy Coleslaw Mix,Mascotas,95.11,41.123712256821232001,88,Tienda física,Kotakaya Dua,977
+8/30/2024,Compact Electric Kettle,Cosmética,2.55,1.107145498942221135,49,App móvil,Kirovskiy,978
+10/4/2024,Frozen Broccoli,Alimentación,95.06,51.477412664679161874,18,Online,Kcynia,979
+5/14/2025,Vegetable Lasagna,Mascotas,14.54,10.33759187367030363,31,App móvil,Duczki,980
+1/9/2025,Rolling Cooler,Higiene,73.66,38.152732078401656398,83,App móvil,Yurino,981
+4/16/2025,Under Desk Footrest,Bebidas,84.36,45.57042863204095344,58,Tienda física,Konza,982
+10/21/2024,Kids' Science Experiment Kit,Alimentación,94.21,70.12843060147054568,53,Online,Patapan,983
+7/18/2025,Chickpea Snack Mix,Bebidas,16.96,7.242165724114957824,14,App móvil,Heqing,984
+4/10/2025,Sea Salt Caramel Brownie,Mascotas,22.57,13.395719851930380523,87,Tienda física,Bantogon,985
+1/3/2025,Apple Cinnamon Oatmeal,Mascotas,37.24,16.604333594309759592,37,Tienda física,San Jose,986
+4/30/2025,Buttermilk Pancakes,Mascotas,70.46,47.57880223566046356,22,App móvil,Gongming,987
+6/13/2025,Coffee Capsule Dispenser,Higiene,22.61,9.470424083338453627,14,App móvil,Palaióchora,988
+1/5/2025,Luxury Bath Salts,Mascotas,86.54,55.847532030669953758,34,Online,Encañada,989
+7/14/2025,Handmade Leather Journal,Limpieza,34.12,20.975225834710945572,66,Online,Gongping,990
+7/8/2025,Air Fryer Oven,Mascotas,62.92,39.780188028393711756,90,Tienda física,Tarata,991
+3/22/2025,Shower Curtain Hooks,Mascotas,44.57,31.085664100809623337,35,App móvil,Pomacocha,992
+9/4/2024,Pet Grooming Glove,Bebidas,9.15,5.58592334963340711,84,Online,Campo Belo,993
+11/26/2024,Relaxed Fit Henley Shirt,Limpieza,14.23,11.208812494843568407,43,Online,Aix-en-Provence,994
+1/24/2025,Portable UV Sterilizer,Higiene,83.47,39.262399168083023926,34,App móvil,Shuinan,995
+6/19/2025,Smartphone Gimbal Stabilizer,Higiene,93.88,52.431334427344343724,32,Online,Tunoshna,996
+8/20/2024,Creamy Spinach Dip,Mascotas,9.89,4.857962266130668499,87,Tienda física,Horred,997
+10/19/2024,LED Christmas Tree Lights,Bebidas,13.15,9.78054624916025889,54,Tienda física,Ed,998
+4/21/2025,Kids' Building Blocks,Higiene,50.83,22.745466932504312711,89,Tienda física,Ciwidara,999
+8/1/2024,Set of Decorative Storage Bins,Bebidas,55.78,39.960159805607381344,10,Online,Cincinnati,1000
