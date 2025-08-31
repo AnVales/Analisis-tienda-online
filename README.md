@@ -1,4 +1,4 @@
-# 📊 Consultas SQL y represemtación en Power BI para análisis de ventas
+# 📊 Consultas SQL y representación en Power BI para análisis de ventas
 
 Este proyecto contiene un conjunto de consultas SQL diseñadas para analizar datos de ventas almacenados en la tabla [datos_creados].
 
